@@ -4,313 +4,102 @@
 ---
 
 ### Problems
-<details>
-    <summary style="list-style:none;">
     
-[![test](https://img.shields.io/badge/-Bronze-AD5600?style=for-the-badge)](#)
-    </summary>
+[![Bronze](https://img.shields.io/badge/-Bronze-AD5600?style=for-the-badge)](#Bronze)
+[![Silver](https://img.shields.io/badge/-Silver-435F7A?style=for-the-badge)](#Silver)
+[![Gold](https://img.shields.io/badge/-Gold-EC9A00?style=for-the-badge)](#Gold)
+[![Platinum](https://img.shields.io/badge/-Platinum-27E2A4?style=for-the-badge)](#Platinum)
+[![Diamond](https://img.shields.io/badge/-Diamond-00B4FC?style=for-the-badge)](#Diamond)
+[![Ruby](https://img.shields.io/badge/-Ruby-FF0062?style=for-the-badge)](#Ruby)
 
-<details>
-<summary style="list-style: none;">
+<br>
 
-![V](https://img.shields.io/badge/V-(0_/_0)-FFFFFF?style=for-the-badge&labelColor=BA2E09)
-</summary>
+#### Bronze
+[![V](https://img.shields.io/badge/V-(0_/_62)-FFFFFF?style=for-the-badge&labelColor=BA2E09)](https://solved.ac/problems/level/1)
  
 | # | Problem | Language |
 |:-:|-|:-:|
 |1|[테스트 테스트]("http://naver.com")|[C++](https://github.com/Knabin/Programmers/blob/master/Level1/something.cpp)|
 
-</details>
+[![IV](https://img.shields.io/badge/IV-(0_/_112)-FFFFFF?style=for-the-badge&labelColor=C44C0A)](https://solved.ac/problems/level/2)
 
-<details>
-    <summary style="list-style: none;">
-    <image src="https://img.shields.io/badge/-IV-C44C0A?style=for-the-badge">&#9;
-    <image src="https://img.shields.io/badge/-(0 / 0)-yellow?style=for-the-badge">
-    </summary>
- 
-| Problem | Language |
-|-|:-:|
-|[테스트 테스트]("http://naver.com")|[C++](https://github.com/Knabin/Programmers/blob/master/Level1/something.cpp)|
+[![III](https://img.shields.io/badge/III-(0_/_409)-FFFFFF?style=for-the-badge&labelColor=AD5600)](https://solved.ac/problems/level/3)
 
-</details>
+[![II](https://img.shields.io/badge/II-(0_/_710)-FFFFFF?style=for-the-badge&labelColor=C47F0A)](https://solved.ac/problems/level/4)
 
-<details>
-    <summary style="list-style: none;"><image src="https://img.shields.io/badge/-III-AD5600?style=for-the-badge"></summary>
- 
-| Problem | Language |
-|-|:-:|
-|[테스트 테스트]("http://naver.com")|[C++](https://github.com/Knabin/Programmers/blob/master/Level1/something.cpp)|
-
-</details>
-
-<details>
-    <summary style="list-style: none;"><image src="https://img.shields.io/badge/-II-C47F0A?style=for-the-badge"></summary>
- 
-| Problem | Language |
-|-|:-:|
-|[테스트 테스트]("http://naver.com")|[C++](https://github.com/Knabin/Programmers/blob/master/Level1/something.cpp)|
-
-</details>
-
-<details>
-    <summary style="list-style: none;"><image src="https://img.shields.io/badge/-I-BA8A09?style=for-the-badge"></summary>
- 
-| Problem | Language |
-|-|:-:|
-|[테스트 테스트]("http://naver.com")|[C++](https://github.com/Knabin/Programmers/blob/master/Level1/something.cpp)|
-
-</details>
-</details>
+[![I](https://img.shields.io/badge/I-(0_/_447)-FFFFFF?style=for-the-badge&labelColor=BA8A09)](https://solved.ac/problems/level/5)
 
 <br>
+---
 
-<details>
-    <summary style="list-style:none;"><image src="https://img.shields.io/badge/-Silver-435F7A?style=for-the-badge"></summary>
+#### Silver
 
-<details>
-    <summary style="list-style: none;"><image src="https://img.shields.io/badge/-V-444487?style=for-the-badge"></summary>
- 
-| Problem | Language |
-|-|:-:|
-|[테스트 테스트]("http://naver.com")|[C++](https://github.com/Knabin/Programmers/blob/master/Level1/something.cpp)|
+[![V](https://img.shields.io/badge/V-(0_/_62)-FFFFFF?style=for-the-badge&labelColor=444487)](https://solved.ac/problems/level/6)
 
-</details>
+[![IV](https://img.shields.io/badge/IV-(0_/_112)-FFFFFF?style=for-the-badge&labelColor=495B91)](https://solved.ac/problems/level/7)
 
-<details>
-    <summary style="list-style: none;"><image src="https://img.shields.io/badge/-IV-495B91?style=for-the-badge"></summary>
- 
-| Problem | Language |
-|-|:-:|
-|[테스트 테스트]("http://naver.com")|[C++](https://github.com/Knabin/Programmers/blob/master/Level1/something.cpp)|
+[![III](https://img.shields.io/badge/III-(0_/_409)-FFFFFF?style=for-the-badge&labelColor=435F7A)](https://solved.ac/problems/level/8)
 
-</details>
+[![II](https://img.shields.io/badge/II-(0_/_710)-FFFFFF?style=for-the-badge&labelColor=498191)](https://solved.ac/problems/level/9)
 
-<details>
-    <summary style="list-style: none;"><image src="https://img.shields.io/badge/-III-435F7A?style=for-the-badge"></summary>
- 
-| Problem | Language |
-|-|:-:|
-|[테스트 테스트]("http://naver.com")|[C++](https://github.com/Knabin/Programmers/blob/master/Level1/something.cpp)|
-
-</details>
-
-<details>
-    <summary style="list-style: none;"><image src="https://img.shields.io/badge/-II-498191?style=for-the-badge"></summary>
- 
-| Problem | Language |
-|-|:-:|
-|[테스트 테스트]("http://naver.com")|[C++](https://github.com/Knabin/Programmers/blob/master/Level1/something.cpp)|
-
-</details>
-
-<details>
-    <summary style="list-style: none;"><image src="https://img.shields.io/badge/-I-448784?style=for-the-badge"></summary>
- 
-| Problem | Language |
-|-|:-:|
-|[테스트 테스트]("http://naver.com")|[C++](https://github.com/Knabin/Programmers/blob/master/Level1/something.cpp)|
-
-</details>
+[![I](https://img.shields.io/badge/I-(0_/_447)-FFFFFF?style=for-the-badge&labelColor=448784)](https://solved.ac/problems/level/10)
 
 <br>
+---
 
-#### ![Gold](https://img.shields.io/badge/-Gold-EC9A00?style=for-the-badge)
+#### Gold
 
-<details>
-    <summary style="list-style: none;"><image src="https://img.shields.io/badge/-V-F7670C?style=for-the-badge"></summary>
- 
-| Problem | Language |
-|-|:-:|
-|[테스트 테스트]("http://naver.com")|[C++](https://github.com/Knabin/Programmers/blob/master/Level1/something.cpp)|
+[![V](https://img.shields.io/badge/V-(0_/_62)-FFFFFF?style=for-the-badge&labelColor=F7670C)](https://solved.ac/problems/level/11)
 
-</details>
+[![IV](https://img.shields.io/badge/IV-(0_/_112)-FFFFFF?style=for-the-badge&labelColor=D6770B)](https://solved.ac/problems/level/12)
 
-<details>
-    <summary style="list-style: none;"><image src="https://img.shields.io/badge/-IV-D6770B?style=for-the-badge"></summary>
- 
-| Problem | Language |
-|-|:-:|
-|[테스트 테스트]("http://naver.com")|[C++](https://github.com/Knabin/Programmers/blob/master/Level1/something.cpp)|
+[![III](https://img.shields.io/badge/III-(0_/_409)-FFFFFF?style=for-the-badge&labelColor=EC9A00)](https://solved.ac/problems/level/13)
 
-</details>
+[![II](https://img.shields.io/badge/II-(0_/_710)-FFFFFF?style=for-the-badge&labelColor=D6A30B)](https://solved.ac/problems/level/14)
 
-<details>
-    <summary style="list-style: none;"><image src="https://img.shields.io/badge/-III-EC9A00?style=for-the-badge"></summary>
- 
-| Problem | Language |
-|-|:-:|
-|[테스트 테스트]("http://naver.com")|[C++](https://github.com/Knabin/Programmers/blob/master/Level1/something.cpp)|
-
-</details>
-
-<details>
-    <summary style="list-style: none;"><image src="https://img.shields.io/badge/-II-D6A30B?style=for-the-badge"></summary>
- 
-| Problem | Language |
-|-|:-:|
-|[테스트 테스트]("http://naver.com")|[C++](https://github.com/Knabin/Programmers/blob/master/Level1/something.cpp)|
-
-</details>
-
-<details>
-    <summary style="list-style: none;"><image src="https://img.shields.io/badge/-I-F7D40C?style=for-the-badge"></summary>
- 
-| Problem | Language |
-|-|:-:|
-|[테스트 테스트]("http://naver.com")|[C++](https://github.com/Knabin/Programmers/blob/master/Level1/something.cpp)|
-
-</details>
-</details>
+[![I](https://img.shields.io/badge/I-(0_/_447)-FFFFFF?style=for-the-badge&labelColor=F7D40C)](https://solved.ac/problems/level/15)
 
 <br>
+---
 
-<details>
-    <summary style="list-style: none;"><image src="https://img.shields.io/badge/-Platinum-27E2A4?style=for-the-badge"></summary>
+#### Platinum
 
-<details>
-    <summary style="list-style: none;"><image src="https://img.shields.io/badge/-V-1DC2F0?style=for-the-badge"></summary>
- 
-| Problem | Language |
-|-|:-:|
-|[테스트 테스트]("http://naver.com")|[C++](https://github.com/Knabin/Programmers/blob/master/Level1/something.cpp)|
+[![V](https://img.shields.io/badge/V-(0_/_62)-FFFFFF?style=for-the-badge&labelColor=1DC2F0)](https://solved.ac/problems/level/16)
 
-</details>
+[![IV](https://img.shields.io/badge/IV-(0_/_112)-FFFFFF?style=for-the-badge&labelColor=1EFAEF)](https://solved.ac/problems/level/17)
 
-<details>
-    <summary style="list-style: none;"><image src="https://img.shields.io/badge/-IV-1EFAEF?style=for-the-badge"></summary>
- 
-| Problem | Language |
-|-|:-:|
-|[테스트 테스트]("http://naver.com")|[C++](https://github.com/Knabin/Programmers/blob/master/Level1/something.cpp)|
+[![III](https://img.shields.io/badge/III-(0_/_409)-FFFFFF?style=for-the-badge&labelColor=27E2A4)](https://solved.ac/problems/level/18)
 
-</details>
+[![II](https://img.shields.io/badge/II-(0_/_710)-FFFFFF?style=for-the-badge&labelColor=1EFA72)](https://solved.ac/problems/level/19)
 
-<details>
-    <summary style="list-style: none;"><image src="https://img.shields.io/badge/-III-27E2A4?style=for-the-badge"></summary>
- 
-| Problem | Language |
-|-|:-:|
-|[테스트 테스트]("http://naver.com")|[C++](https://github.com/Knabin/Programmers/blob/master/Level1/something.cpp)|
-
-</details>
-
-<details>
-    <summary style="list-style: none;"><image src="https://img.shields.io/badge/-II-1EFA72?style=for-the-badge"></summary>
- 
-| Problem | Language |
-|-|:-:|
-|[테스트 테스트]("http://naver.com")|[C++](https://github.com/Knabin/Programmers/blob/master/Level1/something.cpp)|
-
-</details>
-
-<details>
-    <summary style="list-style: none;"><image src="https://img.shields.io/badge/-I-1DF032?style=for-the-badge"></summary>
- 
-| Problem | Language |
-|-|:-:|
-|[테스트 테스트]("http://naver.com")|[C++](https://github.com/Knabin/Programmers/blob/master/Level1/something.cpp)|
-
-</details>
-</details>
+[![I](https://img.shields.io/badge/I-(0_/_447)-FFFFFF?style=for-the-badge&labelColor=1DF032)](https://solved.ac/problems/level/20)
 
 <br>
+---
 
-<details>
-    <summary style="list-style: none;"><image src="https://img.shields.io/badge/-Diamond-00B4FC?style=for-the-badge"></summary>
+#### Diamond
 
-<details>
-    <summary style="list-style: none;"><image src="https://img.shields.io/badge/-V-0D3BFE?style=for-the-badge"></summary>
- 
-| Problem | Language |
-|-|:-:|
-|[테스트 테스트]("http://naver.com")|[C++](https://github.com/Knabin/Programmers/blob/master/Level1/something.cpp)|
+[![V](https://img.shields.io/badge/V-(0_/_62)-FFFFFF?style=for-the-badge&labelColor=0D3BFE)](https://solved.ac/problems/level/21)
 
-</details>
+[![IV](https://img.shields.io/badge/IV-(0_/_112)-FFFFFF?style=for-the-badge&labelColor=0B6EE6)](https://solved.ac/problems/level/22)
 
-<details>
-    <summary style="list-style: none;"><image src="https://img.shields.io/badge/-IV-0B6EE6?style=for-the-badge"></summary>
- 
-| Problem | Language |
-|-|:-:|
-|[테스트 테스트]("http://naver.com")|[C++](https://github.com/Knabin/Programmers/blob/master/Level1/something.cpp)|
+[![III](https://img.shields.io/badge/III-(0_/_409)-FFFFFF?style=for-the-badge&labelColor=00B4FC)](https://solved.ac/problems/level/23)
 
-</details>
+[![II](https://img.shields.io/badge/II-(0_/_710)-FFFFFF?style=for-the-badge&labelColor=0BE1E6)](https://solved.ac/problems/level/24)
 
-<details>
-    <summary style="list-style: none;"><image src="https://img.shields.io/badge/-III-00B4FC?style=for-the-badge"></summary>
- 
-| Problem | Language |
-|-|:-:|
-|[테스트 테스트]("http://naver.com")|[C++](https://github.com/Knabin/Programmers/blob/master/Level1/something.cpp)|
-
-</details>
-
-<details>
-    <summary style="list-style: none;"><image src="https://img.shields.io/badge/-II-0BE1E6?style=for-the-badge"></summary>
- 
-| Problem | Language |
-|-|:-:|
-|[테스트 테스트]("http://naver.com")|[C++](https://github.com/Knabin/Programmers/blob/master/Level1/something.cpp)|
-
-</details>
-
-<details>
-    <summary style="list-style: none;"><image src="https://img.shields.io/badge/-I-0DFEBF?style=for-the-badge"></summary>
- 
-| Problem | Language |
-|-|:-:|
-|[테스트 테스트]("http://naver.com")|[C++](https://github.com/Knabin/Programmers/blob/master/Level1/something.cpp)|
-
-</details>
-</details>
+[![I](https://img.shields.io/badge/I-(0_/_447)-FFFFFF?style=for-the-badge&labelColor=0DFEBF)](https://solved.ac/problems/level/25)
 
 <br>
+---
 
-<details>
-    <summary style="list-style: none;"><image src="https://img.shields.io/badge/-Ruby-FF0062?style=for-the-badge"></summary>
+#### Ruby
 
-<details>
-    <summary style="list-style: none;"><image src="https://img.shields.io/badge/-V-CC0DFF?style=for-the-badge"></summary>
- 
-| Problem | Language |
-|-|:-:|
-|[테스트 테스트]("http://naver.com")|[C++](https://github.com/Knabin/Programmers/blob/master/Level1/something.cpp)|
+[![V](https://img.shields.io/badge/V-(0_/_179)-FFFFFF?style=for-the-badge&labelColor=CC0DFF)](https://solved.ac/problems/level/26)
 
-</details>
+[![IV](https://img.shields.io/badge/IV-(0_/_98)-FFFFFF?style=for-the-badge&labelColor=E80CCE)](https://solved.ac/problems/level/27)
 
-<details>
-    <summary style="list-style: none;"><image src="https://img.shields.io/badge/-IV-E80CCE?style=for-the-badge"></summary>
- 
-| Problem | Language |
-|-|:-:|
-|[테스트 테스트]("http://naver.com")|[C++](https://github.com/Knabin/Programmers/blob/master/Level1/something.cpp)|
+[![III](https://img.shields.io/badge/III-(0_/_54)-FFFFFF?style=for-the-badge&labelColor=FF0062)](https://solved.ac/problems/level/28)
 
-</details>
+[![II](https://img.shields.io/badge/II-(0_/_15)-FFFFFF?style=for-the-badge&labelColor=E8130C)](https://solved.ac/problems/level/29)
 
-<details>
-    <summary style="list-style: none;"><image src="https://img.shields.io/badge/-III-FF0062?style=for-the-badge"></summary>
- 
-| Problem | Language |
-|-|:-:|
-|[테스트 테스트]("http://naver.com")|[C++](https://github.com/Knabin/Programmers/blob/master/Level1/something.cpp)|
-
-</details>
-
-<details>
-    <summary style="list-style: none;"><image src="https://img.shields.io/badge/-II-E8130C?style=for-the-badge"></summary>
- 
-| Problem | Language |
-|-|:-:|
-|[테스트 테스트]("http://naver.com")|[C++](https://github.com/Knabin/Programmers/blob/master/Level1/something.cpp)|
-
-</details>
-
-<details>
-    <summary style="list-style: none;"><image src="https://img.shields.io/badge/-I-FF380D?style=for-the-badge"></summary>
- 
-| Problem | Language |
-|-|:-:|
-|[테스트 테스트]("http://naver.com")|[C++](https://github.com/Knabin/Programmers/blob/master/Level1/something.cpp)|
-
-</details>
-</details>
+[![I](https://img.shields.io/badge/I-(0_/_9)-FFFFFF?style=for-the-badge&labelColor=FF380D)](https://solved.ac/problems/level/30)
