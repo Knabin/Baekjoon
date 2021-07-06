@@ -6,17 +6,19 @@
 ### Problems
 <details>
     <summary style="list-style:none;">
-        <image src="https://img.shields.io/badge/-Bronze-AD5600?style=for-the-badge">
+    
+![test](https://img.shields.io/badge/-Bronze-AD5600?style=for-the-badge)
     </summary>
 
 <details>
 <summary style="list-style: none;">
-    <image src="https://img.shields.io/badge/V-(0 / 0)-FFFFFF?style=for-the-badge&labelColor=BA2E09">
+
+![V](https://img.shields.io/badge/V-(0_/_0)-FFFFFF?style=for-the-badge&labelColor=BA2E09)
 </summary>
  
-| Problem | Language |
-|-|:-:|
-|[테스트 테스트]("http://naver.com")|[C++](https://github.com/Knabin/Programmers/blob/master/Level1/something.cpp)|
+| # | Problem | Language |
+|:-:|-|:-:|
+|1|[테스트 테스트]("http://naver.com")|[C++](https://github.com/Knabin/Programmers/blob/master/Level1/something.cpp)|
 
 </details>
 
