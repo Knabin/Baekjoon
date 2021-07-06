@@ -30,6 +30,7 @@
 [![I](https://img.shields.io/badge/I-(0_/_447)-FFFFFF?style=for-the-badge&labelColor=BA8A09)](https://solved.ac/problems/level/5)
 
 <br>
+
 ---
 
 #### Silver
@@ -45,6 +46,7 @@
 [![I](https://img.shields.io/badge/I-(0_/_447)-FFFFFF?style=for-the-badge&labelColor=448784)](https://solved.ac/problems/level/10)
 
 <br>
+
 ---
 
 #### Gold
@@ -60,6 +62,7 @@
 [![I](https://img.shields.io/badge/I-(0_/_447)-FFFFFF?style=for-the-badge&labelColor=F7D40C)](https://solved.ac/problems/level/15)
 
 <br>
+
 ---
 
 #### Platinum
@@ -75,6 +78,7 @@
 [![I](https://img.shields.io/badge/I-(0_/_447)-FFFFFF?style=for-the-badge&labelColor=1DF032)](https://solved.ac/problems/level/20)
 
 <br>
+
 ---
 
 #### Diamond
@@ -90,6 +94,7 @@
 [![I](https://img.shields.io/badge/I-(0_/_447)-FFFFFF?style=for-the-badge&labelColor=0DFEBF)](https://solved.ac/problems/level/25)
 
 <br>
+
 ---
 
 #### Ruby
