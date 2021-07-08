@@ -19,27 +19,28 @@
  
 | # | 제목 | 언어 |
 |:-:|-|:-:|
-|1000|[A+B]("https://www.acmicpc.net/problem/1000")|[C++17](https://github.com/Knabin/Programmers/blob/master/Bronze-5/1000.cpp)|
-|1001|[A-B]("https://www.acmicpc.net/problem/1001")|[C++17](https://github.com/Knabin/Programmers/blob/master/Bronze-5/1001.cpp)|
-|1550|[16진수]("https://www.acmicpc.net/problem/1550")|[C++17](https://github.com/Knabin/Programmers/blob/master/Bronze-5/1550.cpp)|
-|2475|[검증수]("https://www.acmicpc.net/problem/2475")|[C++17](https://github.com/Knabin/Programmers/blob/master/Bronze-5/2475.cpp)|
-|2557|[Hello World]("https://www.acmicpc.net/problem/2557")|[C++17](https://github.com/Knabin/Programmers/blob/master/Bronze-5/2557.cpp)|
+|1000|[A+B]("https://www.acmicpc.net/problem/1000")|[C++17](https://github.com/Knabin/Baekjoon/blob/master/Bronze-5/1000.cpp)|
+|1001|[A-B]("https://www.acmicpc.net/problem/1001")|[C++17](https://github.com/Knabin/Baekjoon/blob/master/Bronze-5/1001.cpp)|
+|1550|[16진수]("https://www.acmicpc.net/problem/1550")|[C++17](https://github.com/Knabin/Baekjoon/blob/master/Bronze-5/1550.cpp)|
+|2475|[검증수]("https://www.acmicpc.net/problem/2475")|[C++17](https://github.com/Knabin/Baekjoon/blob/master/Bronze-5/2475.cpp)|
+|2557|[Hello World]("https://www.acmicpc.net/problem/2557")|[C++17](https://github.com/Knabin/Baekjoon/blob/master/Bronze-5/2557.cpp)|
 
 [![IV](https://img.shields.io/badge/IV-(0_/_112)-FFFFFF?style=for-the-badge&labelColor=C44C0A)](https://solved.ac/problems/level/2)
 
 [![III](https://img.shields.io/badge/III-(0_/_409)-FFFFFF?style=for-the-badge&labelColor=AD5600)](https://solved.ac/problems/level/3)
 
-[![II](https://img.shields.io/badge/II-(3_/_710)-FFFFFF?style=for-the-badge&labelColor=C47F0A)](https://solved.ac/problems/level/4)
+[![II](https://img.shields.io/badge/II-(4_/_710)-FFFFFF?style=for-the-badge&labelColor=C47F0A)](https://solved.ac/problems/level/4)
 | # | 제목 | 언어 |
 |:-:|-|:-:|
-|1152|[단어의 개수]("https://www.acmicpc.net/problem/1152")|[C++17](https://github.com/Knabin/Programmers/blob/master/Bronze-2/1152.cpp)|
-|2675|[문자열 반복]("https://www.acmicpc.net/problem/2675")|[C++17](https://github.com/Knabin/Programmers/blob/master/Bronze-2/2675.cpp)|
-|2908|[상수]("https://www.acmicpc.net/problem/2908")|[C++17](https://github.com/Knabin/Programmers/blob/master/Bronze-2/2908.cpp)|
+|1152|[단어의 개수]("https://www.acmicpc.net/problem/1152")|[C++17](https://github.com/Knabin/Baekjoon/blob/master/Bronze-2/1152.cpp)|
+|2675|[문자열 반복]("https://www.acmicpc.net/problem/2675")|[C++17](https://github.com/Knabin/Baekjoon/blob/master/Bronze-2/2675.cpp)|
+|2908|[상수]("https://www.acmicpc.net/problem/2908")|[C++17](https://github.com/Knabin/Baekjoon/blob/master/Bronze-2/2908.cpp)|
+|2920|[음계]("https://www.acmicpc.net/problem/2920")|[C++17](https://github.com/Knabin/Baekjoon/blob/master/Bronze-2/2920.cpp)|
 
 [![I](https://img.shields.io/badge/I-(1_/_447)-FFFFFF?style=for-the-badge&labelColor=BA8A09)](https://solved.ac/problems/level/5)
 | # | 제목 | 언어 |
 |:-:|-|:-:|
-|1157|[단어 공부]("https://www.acmicpc.net/problem/1157")|[C++17](https://github.com/Knabin/Programmers/blob/master/Bronze-1/1157.cpp)|
+|1157|[단어 공부]("https://www.acmicpc.net/problem/1157")|[C++17](https://github.com/Knabin/Baekjoon/blob/master/Bronze-1/1157.cpp)|
 
 <br>
 
