@@ -29,11 +29,12 @@
 
 [![III](https://img.shields.io/badge/III-(0_/_409)-FFFFFF?style=for-the-badge&labelColor=AD5600)](https://solved.ac/problems/level/3)
 
-[![II](https://img.shields.io/badge/II-(2_/_710)-FFFFFF?style=for-the-badge&labelColor=C47F0A)](https://solved.ac/problems/level/4)
+[![II](https://img.shields.io/badge/II-(3_/_710)-FFFFFF?style=for-the-badge&labelColor=C47F0A)](https://solved.ac/problems/level/4)
 | # | 제목 | 언어 |
 |:-:|-|:-:|
 |1152|[단어의 개수]("https://www.acmicpc.net/problem/1152")|[C++17](https://github.com/Knabin/Programmers/blob/master/Bronze-2/1152.cpp)|
 |2675|[문자열 반복]("https://www.acmicpc.net/problem/2675")|[C++17](https://github.com/Knabin/Programmers/blob/master/Bronze-2/2675.cpp)|
+|2908|[상수]("https://www.acmicpc.net/problem/2908")|[C++17](https://github.com/Knabin/Programmers/blob/master/Bronze-2/2908.cpp)|
 
 [![I](https://img.shields.io/badge/I-(1_/_447)-FFFFFF?style=for-the-badge&labelColor=BA8A09)](https://solved.ac/problems/level/5)
 | # | 제목 | 언어 |
