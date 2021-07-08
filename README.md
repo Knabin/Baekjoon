@@ -15,7 +15,7 @@
 <br>
 
 #### Bronze
-[![V](https://img.shields.io/badge/V-(5_/_62)-FFFFFF?style=for-the-badge&labelColor=BA2E09)](https://solved.ac/problems/level/1)
+[![V](https://img.shields.io/badge/V-(6_/_62)-FFFFFF?style=for-the-badge&labelColor=BA2E09)](https://solved.ac/problems/level/1)
  
 | # | 제목 | 언어 |
 |:-:|-|:-:|
@@ -30,7 +30,7 @@
 
 [![III](https://img.shields.io/badge/III-(0_/_409)-FFFFFF?style=for-the-badge&labelColor=AD5600)](https://solved.ac/problems/level/3)
 
-[![II](https://img.shields.io/badge/II-(5_/_710)-FFFFFF?style=for-the-badge&labelColor=C47F0A)](https://solved.ac/problems/level/4)
+[![II](https://img.shields.io/badge/II-(6_/_710)-FFFFFF?style=for-the-badge&labelColor=C47F0A)](https://solved.ac/problems/level/4)
 | # | 제목 | 언어 |
 |:-:|-|:-:|
 |1152|[단어의 개수]("https://www.acmicpc.net/problem/1152")|[C++17](https://github.com/Knabin/Baekjoon/blob/master/Bronze-2/1152.cpp)|
@@ -38,6 +38,7 @@
 |2908|[상수]("https://www.acmicpc.net/problem/2908")|[C++17](https://github.com/Knabin/Baekjoon/blob/master/Bronze-2/2908.cpp)|
 |2920|[음계]("https://www.acmicpc.net/problem/2920")|[C++17](https://github.com/Knabin/Baekjoon/blob/master/Bronze-2/2920.cpp)|
 |10809|[알파벳 찾기]("https://www.acmicpc.net/problem/10809")|[C++17](https://github.com/Knabin/Baekjoon/blob/master/Bronze-2/10809.cpp)|
+|11720|[숫자의 합]("https://www.acmicpc.net/problem/11720")|[C++17](https://github.com/Knabin/Baekjoon/blob/master/Bronze-2/11720.cpp)|
 
 [![I](https://img.shields.io/badge/I-(1_/_447)-FFFFFF?style=for-the-badge&labelColor=BA8A09)](https://solved.ac/problems/level/5)
 | # | 제목 | 언어 |
