@@ -51,7 +51,10 @@
 
 #### Silver
 
-[![V](https://img.shields.io/badge/V-(0_/_62)-FFFFFF?style=for-the-badge&labelColor=444487)](https://solved.ac/problems/level/6)
+[![V](https://img.shields.io/badge/V-(1_/_62)-FFFFFF?style=for-the-badge&labelColor=444487)](https://solved.ac/problems/level/6)
+| # | 제목 | 언어 |
+|:-:|-|:-:|
+|1018|[체스판 다시 칠하기]("https://www.acmicpc.net/problem/1018")|[C++17](https://github.com/Knabin/Baekjoon/blob/master/Silver-5/1018.cpp)|
 
 [![IV](https://img.shields.io/badge/IV-(0_/_112)-FFFFFF?style=for-the-badge&labelColor=495B91)](https://solved.ac/problems/level/7)
 
