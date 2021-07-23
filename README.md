@@ -45,10 +45,12 @@
 |10809|[알파벳 찾기]("https://www.acmicpc.net/problem/10809")|[C++17](https://github.com/Knabin/Baekjoon/blob/master/Bronze-2/10809.cpp)|
 |11720|[숫자의 합]("https://www.acmicpc.net/problem/11720")|[C++17](https://github.com/Knabin/Baekjoon/blob/master/Bronze-2/11720.cpp)|
 
-[![I](https://img.shields.io/badge/I-(1_/_447)-FFFFFF?style=for-the-badge&labelColor=BA8A09)](https://solved.ac/problems/level/5)
+[![I](https://img.shields.io/badge/I-(2_/_447)-FFFFFF?style=for-the-badge&labelColor=BA8A09)](https://solved.ac/problems/level/5)
 | # | 제목 | 언어 |
 |:-:|-|:-:|
 |1157|[단어 공부]("https://www.acmicpc.net/problem/1157")|[C++17](https://github.com/Knabin/Baekjoon/blob/master/Bronze-1/1157.cpp)|
+|1259|[팰린드롬수]("https://www.acmicpc.net/problem/1259")|[C++17](https://github.com/Knabin/Baekjoon/blob/master/Bronze-1/1259.cpp)|
+|11050|[이항 계수 1]("https://www.acmicpc.net/problem/11050")|[C++17](https://github.com/Knabin/Baekjoon/blob/master/Bronze-1/11050.cpp)|
 
 <br>
 
