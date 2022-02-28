@@ -63,6 +63,7 @@
 |:-:|-|:-:|
 |1018|[체스판 다시 칠하기]("https://www.acmicpc.net/problem/1018")|[C++17](https://github.com/Knabin/Baekjoon/blob/master/Silver-5/1018.cpp)|
 |1181|[단어 정렬]("https://www.acmicpc.net/problem/1181")|[C++17](https://github.com/Knabin/Baekjoon/blob/master/Silver-5/1181.cpp)|
+|1436|[영화감독 숌]("https://www.acmicpc.net/problem/1436")|[C++17](https://github.com/Knabin/Baekjoon/blob/master/Silver-5/1436.cpp)|
 
 [![IV](https://img.shields.io/badge/IV-(0_/_112)-FFFFFF?style=for-the-badge&labelColor=495B91)](https://solved.ac/problems/level/7)
 
