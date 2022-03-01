@@ -67,7 +67,8 @@
 
 [![IV](https://img.shields.io/badge/IV-(0_/_112)-FFFFFF?style=for-the-badge&labelColor=495B91)](https://solved.ac/problems/level/7)
 
-[![III](https://img.shields.io/badge/III-(0_/_409)-FFFFFF?style=for-the-badge&labelColor=435F7A)](https://solved.ac/problems/level/8)
+[![III](https://img.shields.io/badge/III-(1_/_409)-FFFFFF?style=for-the-badge&labelColor=435F7A)](https://solved.ac/problems/level/8)
+|1654|[랜선 자르기]("https://www.acmicpc.net/problem/1654")|[C++17](https://github.com/Knabin/Baekjoon/blob/master/Silver-3/1654.cpp)|
 
 [![II](https://img.shields.io/badge/II-(0_/_710)-FFFFFF?style=for-the-badge&labelColor=498191)](https://solved.ac/problems/level/9)
 
