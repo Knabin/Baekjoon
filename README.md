@@ -15,15 +15,17 @@
 <br>
 
 #### Bronze
-[![V](https://img.shields.io/badge/V-(6_/_62)-FFFFFF?style=for-the-badge&labelColor=BA2E09)](https://solved.ac/problems/level/1)
+[![V](https://img.shields.io/badge/V-(7_/_62)-FFFFFF?style=for-the-badge&labelColor=BA2E09)](https://solved.ac/problems/level/1)
  
 | # | 제목 | 언어 |
 |:-:|-|:-:|
 |1000|[A+B]("https://www.acmicpc.net/problem/1000")|[C++17](https://github.com/Knabin/Baekjoon/blob/master/Bronze-5/1000.cpp)|
 |1001|[A-B]("https://www.acmicpc.net/problem/1001")|[C++17](https://github.com/Knabin/Baekjoon/blob/master/Bronze-5/1001.cpp)|
+|1259|[팰린드롬수]("https://www.acmicpc.net/problem/1259")|[C++17](https://github.com/Knabin/Baekjoon/blob/master/Bronze-5/1259.cpp)|
 |1550|[16진수]("https://www.acmicpc.net/problem/1550")|[C++17](https://github.com/Knabin/Baekjoon/blob/master/Bronze-5/1550.cpp)|
 |2475|[검증수]("https://www.acmicpc.net/problem/2475")|[C++17](https://github.com/Knabin/Baekjoon/blob/master/Bronze-5/2475.cpp)|
 |2557|[Hello World]("https://www.acmicpc.net/problem/2557")|[C++17](https://github.com/Knabin/Baekjoon/blob/master/Bronze-5/2557.cpp)|
+|8393|[Hello World]("https://www.acmicpc.net/problem/8393")|[C++17](https://github.com/Knabin/Baekjoon/blob/master/Bronze-5/8393.cpp)|
 |11654|[아스키 코드]("https://www.acmicpc.net/problem/11654")|[C++17](https://github.com/Knabin/Baekjoon/blob/master/Bronze-5/11654.cpp)|
 
 [![IV](https://img.shields.io/badge/IV-(0_/_112)-FFFFFF?style=for-the-badge&labelColor=C44C0A)](https://solved.ac/problems/level/2)
@@ -43,11 +45,13 @@
 |10809|[알파벳 찾기]("https://www.acmicpc.net/problem/10809")|[C++17](https://github.com/Knabin/Baekjoon/blob/master/Bronze-2/10809.cpp)|
 |11720|[숫자의 합]("https://www.acmicpc.net/problem/11720")|[C++17](https://github.com/Knabin/Baekjoon/blob/master/Bronze-2/11720.cpp)|
 
-[![I](https://img.shields.io/badge/I-(2_/_556)-FFFFFF?style=for-the-badge&labelColor=BA8A09)](https://solved.ac/problems/level/5)
+[![I](https://img.shields.io/badge/I-(4_/_556)-FFFFFF?style=for-the-badge&labelColor=BA8A09)](https://solved.ac/problems/level/5)
 | # | 제목 | 언어 |
 |:-:|-|:-:|
 |1157|[단어 공부]("https://www.acmicpc.net/problem/1157")|[C++17](https://github.com/Knabin/Baekjoon/blob/master/Bronze-1/1157.cpp)|
+|1259|[팰린드롬수]("https://www.acmicpc.net/problem/1259")|[C++17](https://github.com/Knabin/Baekjoon/blob/master/Bronze-1/1259.cpp)|
 |2309|[일곱 난쟁이]("https://www.acmicpc.net/problem/2309")|[C++17](https://github.com/Knabin/Baekjoon/blob/master/Bronze-1/2309.cpp)|
+|11050|[이항 계수 1]("https://www.acmicpc.net/problem/11050")|[C++17](https://github.com/Knabin/Baekjoon/blob/master/Bronze-1/11050.cpp)|
 
 <br>
 
@@ -60,10 +64,12 @@
 |:-:|-|:-:|
 |1018|[체스판 다시 칠하기]("https://www.acmicpc.net/problem/1018")|[C++17](https://github.com/Knabin/Baekjoon/blob/master/Silver-5/1018.cpp)|
 |1181|[단어 정렬]("https://www.acmicpc.net/problem/1181")|[C++17](https://github.com/Knabin/Baekjoon/blob/master/Silver-5/1181.cpp)|
+|1436|[영화감독 숌]("https://www.acmicpc.net/problem/1436")|[C++17](https://github.com/Knabin/Baekjoon/blob/master/Silver-5/1436.cpp)|
 
 [![IV](https://img.shields.io/badge/IV-(0_/_112)-FFFFFF?style=for-the-badge&labelColor=495B91)](https://solved.ac/problems/level/7)
 
-[![III](https://img.shields.io/badge/III-(0_/_409)-FFFFFF?style=for-the-badge&labelColor=435F7A)](https://solved.ac/problems/level/8)
+[![III](https://img.shields.io/badge/III-(1_/_409)-FFFFFF?style=for-the-badge&labelColor=435F7A)](https://solved.ac/problems/level/8)
+|1654|[랜선 자르기]("https://www.acmicpc.net/problem/1654")|[C++17](https://github.com/Knabin/Baekjoon/blob/master/Silver-3/1654.cpp)|
 
 [![II](https://img.shields.io/badge/II-(0_/_710)-FFFFFF?style=for-the-badge&labelColor=498191)](https://solved.ac/problems/level/9)
 
