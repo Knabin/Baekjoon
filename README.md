@@ -28,7 +28,7 @@
 |8393|[Hello World]("https://www.acmicpc.net/problem/8393")|[C++17](https://github.com/Knabin/Baekjoon/blob/master/Bronze-5/8393.cpp)|
 |11654|[아스키 코드]("https://www.acmicpc.net/problem/11654")|[C++17](https://github.com/Knabin/Baekjoon/blob/master/Bronze-5/11654.cpp)|
 
-[![IV](https://img.shields.io/badge/IV-(0_/_122)-FFFFFF?style=for-the-badge&labelColor=C44C0A)](https://solved.ac/problems/level/2)
+[![IV](https://img.shields.io/badge/IV-(1_/_122)-FFFFFF?style=for-the-badge&labelColor=C44C0A)](https://solved.ac/problems/level/2)
 | # | 제목 | 언어 |
 |:-:|-|:-:|
 |10808|[알파벳 개수]("https://www.acmicpc.net/problem/10808")|[C++17](https://github.com/Knabin/Baekjoon/blob/master/Bronze-4/10808.cpp)|
@@ -38,13 +38,14 @@
 |:-:|-|:-:|
 |1085|[직사각형에서 탈출]("https://www.acmicpc.net/problem/1085")|[C++17](https://github.com/Knabin/Baekjoon/blob/master/Bronze-3/1085.cpp)|
 
-[![II](https://img.shields.io/badge/II-(6_/_710)-FFFFFF?style=for-the-badge&labelColor=C47F0A)](https://solved.ac/problems/level/4)
+[![II](https://img.shields.io/badge/II-(7_/_798)-FFFFFF?style=for-the-badge&labelColor=C47F0A)](https://solved.ac/problems/level/4)
 | # | 제목 | 언어 |
 |:-:|-|:-:|
 |1152|[단어의 개수]("https://www.acmicpc.net/problem/1152")|[C++17](https://github.com/Knabin/Baekjoon/blob/master/Bronze-2/1152.cpp)|
 |2675|[문자열 반복]("https://www.acmicpc.net/problem/2675")|[C++17](https://github.com/Knabin/Baekjoon/blob/master/Bronze-2/2675.cpp)|
 |2908|[상수]("https://www.acmicpc.net/problem/2908")|[C++17](https://github.com/Knabin/Baekjoon/blob/master/Bronze-2/2908.cpp)|
 |2920|[음계]("https://www.acmicpc.net/problem/2920")|[C++17](https://github.com/Knabin/Baekjoon/blob/master/Bronze-2/2920.cpp)|
+|2979|[트럭 주차]("https://www.acmicpc.net/problem/2979")|[C++17](https://github.com/Knabin/Baekjoon/blob/master/Bronze-2/2979.cpp)|
 |10809|[알파벳 찾기]("https://www.acmicpc.net/problem/10809")|[C++17](https://github.com/Knabin/Baekjoon/blob/master/Bronze-2/10809.cpp)|
 |11720|[숫자의 합]("https://www.acmicpc.net/problem/11720")|[C++17](https://github.com/Knabin/Baekjoon/blob/master/Bronze-2/11720.cpp)|
 
