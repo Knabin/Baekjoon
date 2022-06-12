@@ -38,10 +38,11 @@
 |:-:|-|:-:|
 |1085|[직사각형에서 탈출]("https://www.acmicpc.net/problem/1085")|[C++17](https://github.com/Knabin/Baekjoon/blob/master/Bronze-3/1085.cpp)|
 
-[![II](https://img.shields.io/badge/II-(7_/_798)-FFFFFF?style=for-the-badge&labelColor=C47F0A)](https://solved.ac/problems/level/4)
+[![II](https://img.shields.io/badge/II-(8_/_797)-FFFFFF?style=for-the-badge&labelColor=C47F0A)](https://solved.ac/problems/level/4)
 | # | 제목 | 언어 |
 |:-:|-|:-:|
 |1152|[단어의 개수]("https://www.acmicpc.net/problem/1152")|[C++17](https://github.com/Knabin/Baekjoon/blob/master/Bronze-2/1152.cpp)|
+|1159|[농구 경기]("https://www.acmicpc.net/problem/1159")|[C++17](https://github.com/Knabin/Baekjoon/blob/master/Bronze-2/1159.cpp)|
 |2675|[문자열 반복]("https://www.acmicpc.net/problem/2675")|[C++17](https://github.com/Knabin/Baekjoon/blob/master/Bronze-2/2675.cpp)|
 |2908|[상수]("https://www.acmicpc.net/problem/2908")|[C++17](https://github.com/Knabin/Baekjoon/blob/master/Bronze-2/2908.cpp)|
 |2920|[음계]("https://www.acmicpc.net/problem/2920")|[C++17](https://github.com/Knabin/Baekjoon/blob/master/Bronze-2/2920.cpp)|
