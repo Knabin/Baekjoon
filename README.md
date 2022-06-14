@@ -75,9 +75,10 @@
 
 [![IV](https://img.shields.io/badge/IV-(0_/_112)-FFFFFF?style=for-the-badge&labelColor=495B91)](https://solved.ac/problems/level/7)
 
-[![III](https://img.shields.io/badge/III-(1_/_591)-FFFFFF?style=for-the-badge&labelColor=435F7A)](https://solved.ac/problems/level/8)
+[![III](https://img.shields.io/badge/III-(2_/_591)-FFFFFF?style=for-the-badge&labelColor=435F7A)](https://solved.ac/problems/level/8)
 | # | 제목 | 언어 |
 |:-:|-|:-:|
+|2559|[수열]("https://www.acmicpc.net/problem/2559")|[C++17](https://github.com/Knabin/Baekjoon/blob/master/Silver-3/2559.cpp)|
 |9996|[한국이 그리울 땐 서버에 접속하지]("https://www.acmicpc.net/problem/9996")|[C++17](https://github.com/Knabin/Baekjoon/blob/master/Silver-3/9996.cpp)|
 
 [![II](https://img.shields.io/badge/II-(1_/_636)-FFFFFF?style=for-the-badge&labelColor=498191)](https://solved.ac/problems/level/9)
