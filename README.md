@@ -66,14 +66,17 @@
 
 #### Silver
 
-[![V](https://img.shields.io/badge/V-(1_/_62)-FFFFFF?style=for-the-badge&labelColor=444487)](https://solved.ac/problems/level/6)
+[![V](https://img.shields.io/badge/V-(3_/_559)-FFFFFF?style=for-the-badge&labelColor=444487)](https://solved.ac/problems/level/6)
 | # | 제목 | 언어 |
 |:-:|-|:-:|
 |1018|[체스판 다시 칠하기]("https://www.acmicpc.net/problem/1018")|[C++17](https://github.com/Knabin/Baekjoon/blob/master/Silver-5/1018.cpp)|
 |1181|[단어 정렬]("https://www.acmicpc.net/problem/1181")|[C++17](https://github.com/Knabin/Baekjoon/blob/master/Silver-5/1181.cpp)|
 |1436|[영화감독 숌]("https://www.acmicpc.net/problem/1436")|[C++17](https://github.com/Knabin/Baekjoon/blob/master/Silver-5/1436.cpp)|
 
-[![IV](https://img.shields.io/badge/IV-(0_/_112)-FFFFFF?style=for-the-badge&labelColor=495B91)](https://solved.ac/problems/level/7)
+[![IV](https://img.shields.io/badge/IV-(1_/_587)-FFFFFF?style=for-the-badge&labelColor=495B91)](https://solved.ac/problems/level/7)
+| # | 제목 | 언어 |
+|:-:|-|:-:|
+|1620|[나는야 포켓몬 마스터 이다솜]("https://www.acmicpc.net/problem/1620")|[C++17](https://github.com/Knabin/Baekjoon/blob/master/Silver-4/1620.cpp)|
 
 [![III](https://img.shields.io/badge/III-(2_/_591)-FFFFFF?style=for-the-badge&labelColor=435F7A)](https://solved.ac/problems/level/8)
 | # | 제목 | 언어 |
