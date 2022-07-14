@@ -73,10 +73,11 @@
 |1181|[단어 정렬]("https://www.acmicpc.net/problem/1181")|[C++17](https://github.com/Knabin/Baekjoon/blob/master/Silver-5/1181.cpp)|
 |1436|[영화감독 숌]("https://www.acmicpc.net/problem/1436")|[C++17](https://github.com/Knabin/Baekjoon/blob/master/Silver-5/1436.cpp)|
 
-[![IV](https://img.shields.io/badge/IV-(1_/_587)-FFFFFF?style=for-the-badge&labelColor=495B91)](https://solved.ac/problems/level/7)
+[![IV](https://img.shields.io/badge/IV-(2_/_658)-FFFFFF?style=for-the-badge&labelColor=495B91)](https://solved.ac/problems/level/7)
 | # | 제목 | 언어 |
 |:-:|-|:-:|
 |1620|[나는야 포켓몬 마스터 이다솜]("https://www.acmicpc.net/problem/1620")|[C++17](https://github.com/Knabin/Baekjoon/blob/master/Silver-4/1620.cpp)|
+|1940|[주몽]("https://www.acmicpc.net/problem/1940")|[C++17](https://github.com/Knabin/Baekjoon/blob/master/Silver-4/1940.cpp)|
 
 [![III](https://img.shields.io/badge/III-(3_/_594)-FFFFFF?style=for-the-badge&labelColor=435F7A)](https://solved.ac/problems/level/8)
 | # | 제목 | 언어 |
