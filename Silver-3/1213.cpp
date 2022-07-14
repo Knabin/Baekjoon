@@ -1,8 +1,8 @@
 /*
  * 제목     팰린드롬 만들기
- * 결과     틀렸습니다
- * 메모리   - KB
- * 시간     - ms
+ * 결과     맞았습니다!!
+ * 메모리   2024 KB
+ * 시간     0 ms
  * 언어     C++17
  */
 //#include <bits/stdc++.h>
@@ -18,19 +18,19 @@ int main() {
     string input, res;
     cin >> input;
 
-    int cnt[30]{ 0 };
+    int cnt[200];
     int flag = 0;
     char mid;
 
-    for (const auto& s : input) cnt[s - 'A']++;
+    for (const auto& s : input) cnt[s]++;
 
-    for (int i = 'Z' - 'A'; i >= 0; --i)
+    for (int i = 'Z'; i >= 'A'; --i)
     {
         if (cnt[i] != 0)
         {
             if (cnt[i] & 1)
             {
-                mid = char('A' + i);
+                mid = char(i);
                 flag++;
                 cnt[i]--;
             }
@@ -39,8 +39,8 @@ int main() {
 
             for (int j = 0; j < cnt[i]; j += 2)
             {
-                res = char('A' + i) + res;
-                res += char('A' + i);
+                res = char(i) + res;
+                res += char(i);
             }
         }
     }

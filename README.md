@@ -78,7 +78,7 @@
 |:-:|-|:-:|
 |1620|[나는야 포켓몬 마스터 이다솜]("https://www.acmicpc.net/problem/1620")|[C++17](https://github.com/Knabin/Baekjoon/blob/master/Silver-4/1620.cpp)|
 
-[![III](https://img.shields.io/badge/III-(2_/_594)-FFFFFF?style=for-the-badge&labelColor=435F7A)](https://solved.ac/problems/level/8)
+[![III](https://img.shields.io/badge/III-(3_/_594)-FFFFFF?style=for-the-badge&labelColor=435F7A)](https://solved.ac/problems/level/8)
 | # | 제목 | 언어 |
 |:-:|-|:-:|
 |1213|[팰린드롬 만들기]("https://www.acmicpc.net/problem/1213")|[C++17](https://github.com/Knabin/Baekjoon/blob/master/Silver-3/1213.cpp)|
