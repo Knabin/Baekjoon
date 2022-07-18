@@ -92,7 +92,8 @@
 |:-:|-|:-:|
 |1654|[랜선 자르기]("https://www.acmicpc.net/problem/1654")|[C++17](https://github.com/Knabin/Baekjoon/blob/master/Silver-2/1654.cpp)|
 
-[![I](https://img.shields.io/badge/I-(0_/_447)-FFFFFF?style=for-the-badge&labelColor=448784)](https://solved.ac/problems/level/10)
+[![I](https://img.shields.io/badge/I-(1_/_721)-FFFFFF?style=for-the-badge&labelColor=448784)](https://solved.ac/problems/level/10)
+|1629|[곱셈]("https://www.acmicpc.net/problem/1629")|[C++17](https://github.com/Knabin/Baekjoon/blob/master/Silver-1/1629.cpp)|
 
 <br>
 
