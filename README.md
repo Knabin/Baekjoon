@@ -14,7 +14,9 @@
 
 <br>
 
-#### Bronze
+<details>
+<summary><h3>Bronze</h3></summary>
+
 [![V](https://img.shields.io/badge/V-(10_/_99)-FFFFFF?style=for-the-badge&labelColor=BA2E09)](https://solved.ac/problems/level/1)
  
 | # | 제목 | 언어 |
@@ -62,11 +64,12 @@
 |11050|[이항 계수 1]("https://www.acmicpc.net/problem/11050")|[C++17](https://github.com/Knabin/Baekjoon/blob/master/Bronze-1/11050.cpp)|
 |11655|[ROT13]("https://www.acmicpc.net/problem/11655")|[C++17](https://github.com/Knabin/Baekjoon/blob/master/Bronze-1/11655.cpp)|
 
+</details>
+
 <br>
 
----
-
-#### Silver
+<details>
+<summary><h3>Silver</h3></summary> 
 
 [![V](https://img.shields.io/badge/V-(3_/_559)-FFFFFF?style=for-the-badge&labelColor=444487)](https://solved.ac/problems/level/6)
 | # | 제목 | 언어 |
@@ -99,11 +102,12 @@
 |:-:|-|:-:|
 |1629|[곱셈]("https://www.acmicpc.net/problem/1629")|[C++17](https://github.com/Knabin/Baekjoon/blob/master/Silver-1/1629.cpp)|
 
+</details>
+
 <br>
 
----
-
-#### Gold
+<details>
+<summary><h3>Gold</h3></summary>
 
 [![V](https://img.shields.io/badge/V-(0_/_62)-FFFFFF?style=for-the-badge&labelColor=F7670C)](https://solved.ac/problems/level/11)
 
@@ -115,11 +119,12 @@
 
 [![I](https://img.shields.io/badge/I-(0_/_447)-FFFFFF?style=for-the-badge&labelColor=F7D40C)](https://solved.ac/problems/level/15)
 
+</details>
+
 <br>
 
----
-
-#### Platinum
+<details>
+<summary><h3>Platinum</h3></summary>
 
 [![V](https://img.shields.io/badge/V-(0_/_62)-FFFFFF?style=for-the-badge&labelColor=1DC2F0)](https://solved.ac/problems/level/16)
 
@@ -131,11 +136,12 @@
 
 [![I](https://img.shields.io/badge/I-(0_/_447)-FFFFFF?style=for-the-badge&labelColor=1DF032)](https://solved.ac/problems/level/20)
 
+</details>
+
 <br>
 
----
-
-#### Diamond
+<details>
+<summary><h3>Diamond</h3></summary>
 
 [![V](https://img.shields.io/badge/V-(0_/_62)-FFFFFF?style=for-the-badge&labelColor=0D3BFE)](https://solved.ac/problems/level/21)
 
@@ -147,11 +153,12 @@
 
 [![I](https://img.shields.io/badge/I-(0_/_447)-FFFFFF?style=for-the-badge&labelColor=0DFEBF)](https://solved.ac/problems/level/25)
 
+</details>
+
 <br>
 
----
-
-#### Ruby
+<details>
+<summary><h3>Ruby</h3></summary>
 
 [![V](https://img.shields.io/badge/V-(0_/_179)-FFFFFF?style=for-the-badge&labelColor=CC0DFF)](https://solved.ac/problems/level/26)
 
@@ -162,3 +169,5 @@
 [![II](https://img.shields.io/badge/II-(0_/_15)-FFFFFF?style=for-the-badge&labelColor=E8130C)](https://solved.ac/problems/level/29)
 
 [![I](https://img.shields.io/badge/I-(0_/_9)-FFFFFF?style=for-the-badge&labelColor=FF380D)](https://solved.ac/problems/level/30)
+
+</details>
