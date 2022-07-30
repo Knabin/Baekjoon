@@ -15,7 +15,7 @@
 <br>
 
 #### Bronze
-[![V](https://img.shields.io/badge/V-(10_/_99)-FFFFFF?style=for-the-badge&labelColor=BA2E09)](https://solved.ac/problems/level/1)
+[![V](https://img.shields.io/badge/V-(11_/_99)-FFFFFF?style=for-the-badge&labelColor=BA2E09)](https://solved.ac/problems/level/1)
  
 | # | 제목 | 언어 |
 |:-:|-|:-:|
@@ -27,7 +27,8 @@
 |2420|[사파리월드]("https://www.acmicpc.net/problem/2420")|[C++17](https://github.com/Knabin/Baekjoon/blob/master/Bronze-5/2420.cpp)|
 |2475|[검증수]("https://www.acmicpc.net/problem/2475")|[C++17](https://github.com/Knabin/Baekjoon/blob/master/Bronze-5/2475.cpp)|
 |2557|[Hello World]("https://www.acmicpc.net/problem/2557")|[C++17](https://github.com/Knabin/Baekjoon/blob/master/Bronze-5/2557.cpp)|
-|8393|[Hello World]("https://www.acmicpc.net/problem/8393")|[C++17](https://github.com/Knabin/Baekjoon/blob/master/Bronze-5/8393.cpp)|
+|2558|[A+B - 2]("https://www.acmicpc.net/problem/2558")|[C++17](https://github.com/Knabin/Baekjoon/blob/master/Bronze-5/2558.cpp)|
+|8393|[합]("https://www.acmicpc.net/problem/8393")|[C++17](https://github.com/Knabin/Baekjoon/blob/master/Bronze-5/8393.cpp)|
 |11654|[아스키 코드]("https://www.acmicpc.net/problem/11654")|[C++17](https://github.com/Knabin/Baekjoon/blob/master/Bronze-5/11654.cpp)|
 
 [![IV](https://img.shields.io/badge/IV-(1_/_122)-FFFFFF?style=for-the-badge&labelColor=C44C0A)](https://solved.ac/problems/level/2)
