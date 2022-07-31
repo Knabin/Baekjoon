@@ -24,9 +24,9 @@
 |1000|[A+B]("https://www.acmicpc.net/problem/1000")|[C++17](https://github.com/Knabin/Baekjoon/blob/master/Bronze-5/1000.cpp)|
 |1001|[A-B]("https://www.acmicpc.net/problem/1001")|[C++17](https://github.com/Knabin/Baekjoon/blob/master/Bronze-5/1001.cpp)|
 |1008|[A/B]("https://www.acmicpc.net/problem/1008")|[C++17](https://github.com/Knabin/Baekjoon/blob/master/Bronze-5/1008.cpp)|
-|1259|[팰린드롬수]("https://www.acmicpc.net/problem/1259")|[C++17](https://github.com/Knabin/Baekjoon/blob/master/Bronze-5/1259.cpp)|
 |1550|[16진수]("https://www.acmicpc.net/problem/1550")|[C++17](https://github.com/Knabin/Baekjoon/blob/master/Bronze-5/1550.cpp)|
 |2420|[사파리월드]("https://www.acmicpc.net/problem/2420")|[C++17](https://github.com/Knabin/Baekjoon/blob/master/Bronze-5/2420.cpp)|
+|2438|[별 찍기 - 1]("https://www.acmicpc.net/problem/2438")|[C++17](https://github.com/Knabin/Baekjoon/blob/master/Bronze-5/2438.cpp)|
 |2475|[검증수]("https://www.acmicpc.net/problem/2475")|[C++17](https://github.com/Knabin/Baekjoon/blob/master/Bronze-5/2475.cpp)|
 |2557|[Hello World]("https://www.acmicpc.net/problem/2557")|[C++17](https://github.com/Knabin/Baekjoon/blob/master/Bronze-5/2557.cpp)|
 |2558|[A+B - 2]("https://www.acmicpc.net/problem/2558")|[C++17](https://github.com/Knabin/Baekjoon/blob/master/Bronze-5/2558.cpp)|
