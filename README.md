@@ -17,7 +17,7 @@
 <details>
 <summary><h3>Bronze</h3></summary>
 
-[![V](https://img.shields.io/badge/V-(12_/_98)-FFFFFF?style=for-the-badge&labelColor=BA2E09)](https://solved.ac/problems/level/1)
+[![V](https://img.shields.io/badge/V-(13_/_98)-FFFFFF?style=for-the-badge&labelColor=BA2E09)](https://solved.ac/problems/level/1)
  
 | # | 제목 | 언어 |
 |:-:|-|:-:|
@@ -31,6 +31,7 @@
 |2557|[Hello World]("https://www.acmicpc.net/problem/2557")|[C++17](https://github.com/Knabin/Baekjoon/blob/master/Bronze-5/2557.cpp)|
 |2558|[A+B - 2]("https://www.acmicpc.net/problem/2558")|[C++17](https://github.com/Knabin/Baekjoon/blob/master/Bronze-5/2558.cpp)|
 |2738|[행렬 덧셈]("https://www.acmicpc.net/problem/2738")|[C++17](https://github.com/Knabin/Baekjoon/blob/master/Bronze-5/2738.cpp)|
+|2743|[단어 길이 재기]("https://www.acmicpc.net/problem/2743")|[C++17](https://github.com/Knabin/Baekjoon/blob/master/Bronze-5/2743.cpp)|
 |8393|[합]("https://www.acmicpc.net/problem/8393")|[C++17](https://github.com/Knabin/Baekjoon/blob/master/Bronze-5/8393.cpp)|
 |11654|[아스키 코드]("https://www.acmicpc.net/problem/11654")|[C++17](https://github.com/Knabin/Baekjoon/blob/master/Bronze-5/11654.cpp)|
 
