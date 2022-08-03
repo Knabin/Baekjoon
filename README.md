@@ -76,16 +76,17 @@
 <details>
 <summary><h3>Silver</h3></summary> 
 
-[![V](https://img.shields.io/badge/V-(3_/_559)-FFFFFF?style=for-the-badge&labelColor=444487)](https://solved.ac/problems/level/6)
+[![V](https://img.shields.io/badge/V-(3_/_599)-FFFFFF?style=for-the-badge&labelColor=444487)](https://solved.ac/problems/level/6)
+| # | 제목 | 언어 |
+|:-:|-|:-:|
+|1181|[단어 정렬]("https://www.acmicpc.net/problem/1181")|[C++17](https://github.com/Knabin/Baekjoon/blob/master/Silver-5/1181.cpp)|
+|1436|[영화감독 숌]("https://www.acmicpc.net/problem/1436")|[C++17](https://github.com/Knabin/Baekjoon/blob/master/Silver-5/1436.cpp)|
+|4673|[셀프 넘버]("https://www.acmicpc.net/problem/4673")|[C++17](https://github.com/Knabin/Baekjoon/blob/master/Silver-5/4673.cpp)|
+
+[![IV](https://img.shields.io/badge/IV-(4_/_710)-FFFFFF?style=for-the-badge&labelColor=495B91)](https://solved.ac/problems/level/7)
 | # | 제목 | 언어 |
 |:-:|-|:-:|
 |1018|[체스판 다시 칠하기]("https://www.acmicpc.net/problem/1018")|[C++17](https://github.com/Knabin/Baekjoon/blob/master/Silver-5/1018.cpp)|
-|1181|[단어 정렬]("https://www.acmicpc.net/problem/1181")|[C++17](https://github.com/Knabin/Baekjoon/blob/master/Silver-5/1181.cpp)|
-|1436|[영화감독 숌]("https://www.acmicpc.net/problem/1436")|[C++17](https://github.com/Knabin/Baekjoon/blob/master/Silver-5/1436.cpp)|
-
-[![IV](https://img.shields.io/badge/IV-(3_/_670)-FFFFFF?style=for-the-badge&labelColor=495B91)](https://solved.ac/problems/level/7)
-| # | 제목 | 언어 |
-|:-:|-|:-:|
 |1620|[나는야 포켓몬 마스터 이다솜]("https://www.acmicpc.net/problem/1620")|[C++17](https://github.com/Knabin/Baekjoon/blob/master/Silver-4/1620.cpp)|
 |1940|[주몽]("https://www.acmicpc.net/problem/1940")|[C++17](https://github.com/Knabin/Baekjoon/blob/master/Silver-4/1940.cpp)|
 |3986|[좋은 단어]("https://www.acmicpc.net/problem/3986")|[C++17](https://github.com/Knabin/Baekjoon/blob/master/Silver-4/3986.cpp)|
