@@ -76,10 +76,11 @@
 <details>
 <summary><h3>Silver</h3></summary> 
 
-[![V](https://img.shields.io/badge/V-(4_/_599)-FFFFFF?style=for-the-badge&labelColor=444487)](https://solved.ac/problems/level/6)
+[![V](https://img.shields.io/badge/V-(5_/_599)-FFFFFF?style=for-the-badge&labelColor=444487)](https://solved.ac/problems/level/6)
 | # | 제목 | 언어 |
 |:-:|-|:-:|
 |1181|[단어 정렬]("https://www.acmicpc.net/problem/1181")|[C++17](https://github.com/Knabin/Baekjoon/blob/master/Silver-5/1181.cpp)|
+|1316|[그룹 단어 체커]("https://www.acmicpc.net/problem/1316")|[C++17](https://github.com/Knabin/Baekjoon/blob/master/Silver-5/1316.cpp)|
 |1436|[영화감독 숌]("https://www.acmicpc.net/problem/1436")|[C++17](https://github.com/Knabin/Baekjoon/blob/master/Silver-5/1436.cpp)|
 |1978|[소수 찾기]("https://www.acmicpc.net/problem/1978")|[C++17](https://github.com/Knabin/Baekjoon/blob/master/Silver-5/1978.cpp)|
 |4673|[셀프 넘버]("https://www.acmicpc.net/problem/4673")|[C++17](https://github.com/Knabin/Baekjoon/blob/master/Silver-5/4673.cpp)|
