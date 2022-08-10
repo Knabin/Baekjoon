@@ -42,12 +42,12 @@
 |2480|[주사위 세개]("https://www.acmicpc.net/problem/2480")|[C++17](https://github.com/Knabin/Baekjoon/blob/master/Bronze-4/2480.cpp)|
 |10808|[알파벳 개수]("https://www.acmicpc.net/problem/10808")|[C++17](https://github.com/Knabin/Baekjoon/blob/master/Bronze-4/10808.cpp)|
 
-[![III](https://img.shields.io/badge/III-(1_/_409)-FFFFFF?style=for-the-badge&labelColor=AD5600)](https://solved.ac/problems/level/3)
+[![III](https://img.shields.io/badge/III-(1_/_471)-FFFFFF?style=for-the-badge&labelColor=AD5600)](https://solved.ac/problems/level/3)
 | # | 제목 | 언어 |
 |:-:|-|:-:|
 |1085|[직사각형에서 탈출]("https://www.acmicpc.net/problem/1085")|[C++17](https://github.com/Knabin/Baekjoon/blob/master/Bronze-3/1085.cpp)|
 
-[![II](https://img.shields.io/badge/II-(8_/_797)-FFFFFF?style=for-the-badge&labelColor=C47F0A)](https://solved.ac/problems/level/4)
+[![II](https://img.shields.io/badge/II-(8_/_846)-FFFFFF?style=for-the-badge&labelColor=C47F0A)](https://solved.ac/problems/level/4)
 | # | 제목 | 언어 |
 |:-:|-|:-:|
 |1152|[단어의 개수]("https://www.acmicpc.net/problem/1152")|[C++17](https://github.com/Knabin/Baekjoon/blob/master/Bronze-2/1152.cpp)|
@@ -59,7 +59,7 @@
 |10809|[알파벳 찾기]("https://www.acmicpc.net/problem/10809")|[C++17](https://github.com/Knabin/Baekjoon/blob/master/Bronze-2/10809.cpp)|
 |11720|[숫자의 합]("https://www.acmicpc.net/problem/11720")|[C++17](https://github.com/Knabin/Baekjoon/blob/master/Bronze-2/11720.cpp)|
 
-[![I](https://img.shields.io/badge/I-(7_/_601)-FFFFFF?style=for-the-badge&labelColor=BA8A09)](https://solved.ac/problems/level/5)
+[![I](https://img.shields.io/badge/I-(7_/_609)-FFFFFF?style=for-the-badge&labelColor=BA8A09)](https://solved.ac/problems/level/5)
 | # | 제목 | 언어 |
 |:-:|-|:-:|
 |1157|[단어 공부]("https://www.acmicpc.net/problem/1157")|[C++17](https://github.com/Knabin/Baekjoon/blob/master/Bronze-1/1157.cpp)|
@@ -88,7 +88,7 @@
 |2941|[크로아티아 알파벳]("https://www.acmicpc.net/problem/2941")|[C++17](https://github.com/Knabin/Baekjoon/blob/master/Silver-5/2941.cpp)|
 |4673|[셀프 넘버]("https://www.acmicpc.net/problem/4673")|[C++17](https://github.com/Knabin/Baekjoon/blob/master/Silver-5/4673.cpp)|
 
-[![IV](https://img.shields.io/badge/IV-(7_/_706)-FFFFFF?style=for-the-badge&labelColor=495B91)](https://solved.ac/problems/level/7)
+[![IV](https://img.shields.io/badge/IV-(7_/_703)-FFFFFF?style=for-the-badge&labelColor=495B91)](https://solved.ac/problems/level/7)
 | # | 제목 | 언어 |
 |:-:|-|:-:|
 |1018|[체스판 다시 칠하기]("https://www.acmicpc.net/problem/1018")|[C++17](https://github.com/Knabin/Baekjoon/blob/master/Silver-5/1018.cpp)|
@@ -99,7 +99,7 @@
 |3986|[좋은 단어]("https://www.acmicpc.net/problem/3986")|[C++17](https://github.com/Knabin/Baekjoon/blob/master/Silver-4/3986.cpp)|
 |9012|[괄호]("https://www.acmicpc.net/problem/9012")|[C++17](https://github.com/Knabin/Baekjoon/blob/master/Silver-4/9012.cpp)|
 
-[![III](https://img.shields.io/badge/III-(4_/_594)-FFFFFF?style=for-the-badge&labelColor=435F7A)](https://solved.ac/problems/level/8)
+[![III](https://img.shields.io/badge/III-(4_/_707)-FFFFFF?style=for-the-badge&labelColor=435F7A)](https://solved.ac/problems/level/8)
 | # | 제목 | 언어 |
 |:-:|-|:-:|
 |1213|[팰린드롬 만들기]("https://www.acmicpc.net/problem/1213")|[C++17](https://github.com/Knabin/Baekjoon/blob/master/Silver-3/1213.cpp)|
@@ -107,12 +107,12 @@
 |4375|[1]("https://www.acmicpc.net/problem/4375")|[C++17](https://github.com/Knabin/Baekjoon/blob/master/Silver-3/4375.cpp)|
 |9996|[한국이 그리울 땐 서버에 접속하지]("https://www.acmicpc.net/problem/9996")|[C++17](https://github.com/Knabin/Baekjoon/blob/master/Silver-3/9996.cpp)|
 
-[![II](https://img.shields.io/badge/II-(1_/_636)-FFFFFF?style=for-the-badge&labelColor=498191)](https://solved.ac/problems/level/9)
+[![II](https://img.shields.io/badge/II-(1_/_737)-FFFFFF?style=for-the-badge&labelColor=498191)](https://solved.ac/problems/level/9)
 | # | 제목 | 언어 |
 |:-:|-|:-:|
 |1654|[랜선 자르기]("https://www.acmicpc.net/problem/1654")|[C++17](https://github.com/Knabin/Baekjoon/blob/master/Silver-2/1654.cpp)|
 
-[![I](https://img.shields.io/badge/I-(1_/_721)-FFFFFF?style=for-the-badge&labelColor=448784)](https://solved.ac/problems/level/10)
+[![I](https://img.shields.io/badge/I-(1_/_740)-FFFFFF?style=for-the-badge&labelColor=448784)](https://solved.ac/problems/level/10)
 | # | 제목 | 언어 |
 |:-:|-|:-:|
 |1629|[곱셈]("https://www.acmicpc.net/problem/1629")|[C++17](https://github.com/Knabin/Baekjoon/blob/master/Silver-1/1629.cpp)|
