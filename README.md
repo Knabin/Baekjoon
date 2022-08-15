@@ -36,9 +36,10 @@
 |10872|[팩토리얼]("https://www.acmicpc.net/problem/10872")|[C++17](https://github.com/Knabin/Baekjoon/blob/master/Bronze-5/10872.cpp)|
 |11654|[아스키 코드]("https://www.acmicpc.net/problem/11654")|[C++17](https://github.com/Knabin/Baekjoon/blob/master/Bronze-5/11654.cpp)|
 
-[![IV](https://img.shields.io/badge/IV-(2_/_145)-FFFFFF?style=for-the-badge&labelColor=C44C0A)](https://solved.ac/problems/level/2)
+[![IV](https://img.shields.io/badge/IV-(3_/_145)-FFFFFF?style=for-the-badge&labelColor=C44C0A)](https://solved.ac/problems/level/2)
 | # | 제목 | 언어 |
 |:-:|-|:-:|
+|2440|[별 찍기 - 3]("https://www.acmicpc.net/problem/2440")|[C++17](https://github.com/Knabin/Baekjoon/blob/master/Bronze-4/2440.cpp)|
 |2480|[주사위 세개]("https://www.acmicpc.net/problem/2480")|[C++17](https://github.com/Knabin/Baekjoon/blob/master/Bronze-4/2480.cpp)|
 |10808|[알파벳 개수]("https://www.acmicpc.net/problem/10808")|[C++17](https://github.com/Knabin/Baekjoon/blob/master/Bronze-4/10808.cpp)|
 

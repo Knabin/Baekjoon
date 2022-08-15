@@ -1,0 +1,29 @@
+/*
+ * 제목     별 찍기 - 3
+ * 결과     맞았습니다!!
+ * 메모리   2020 KB
+ * 시간     0 ms
+ * 언어     C++17
+ */
+#include <bits/stdc++.h>
+using namespace std;
+
+int main() {
+    ios_base::sync_with_stdio(false);
+    cin.tie(NULL);
+    cout.tie(NULL);
+
+    int n;
+    cin >> n;
+
+    for (int i = n; i > 0; --i)
+    {
+        for (int j = i; j > 0; --j)
+        {
+            cout << "*";
+        }
+        cout << '\n';
+    }
+
+    return 0;
+}
