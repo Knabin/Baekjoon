@@ -81,7 +81,7 @@
 <details>
 <summary><h3>Silver</h3></summary> 
 
-[![V](https://img.shields.io/badge/V-(7_/_599)-FFFFFF?style=for-the-badge&labelColor=444487)](https://solved.ac/problems/level/6)
+[![V](https://img.shields.io/badge/V-(8_/_599)-FFFFFF?style=for-the-badge&labelColor=444487)](https://solved.ac/problems/level/6)
 | # | 제목 | 언어 |
 |:-:|-|:-:|
 |1181|[단어 정렬]("https://www.acmicpc.net/problem/1181")|[C++17](https://github.com/Knabin/Baekjoon/blob/master/Silver-5/1181.cpp)|
@@ -91,6 +91,7 @@
 |2751|[수 정렬하기 2]("https://www.acmicpc.net/problem/2751")|[C++17](https://github.com/Knabin/Baekjoon/blob/master/Silver-5/2751.cpp)|
 |2941|[크로아티아 알파벳]("https://www.acmicpc.net/problem/2941")|[C++17](https://github.com/Knabin/Baekjoon/blob/master/Silver-5/2941.cpp)|
 |4673|[셀프 넘버]("https://www.acmicpc.net/problem/4673")|[C++17](https://github.com/Knabin/Baekjoon/blob/master/Silver-5/4673.cpp)|
+|11650|[좌표 정렬하기]("https://www.acmicpc.net/problem/11650")|[C++17](https://github.com/Knabin/Baekjoon/blob/master/Silver-5/11650.cpp)|
 
 [![IV](https://img.shields.io/badge/IV-(7_/_703)-FFFFFF?style=for-the-badge&labelColor=495B91)](https://solved.ac/problems/level/7)
 | # | 제목 | 언어 |
