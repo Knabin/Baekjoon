@@ -17,7 +17,7 @@
 <details>
 <summary><h3>Bronze</h3></summary>
 
-[![V](https://img.shields.io/badge/V-(16_/_98)-FFFFFF?style=for-the-badge&labelColor=BA2E09)](https://solved.ac/problems/level/1)
+[![V](https://img.shields.io/badge/V-(17_/_98)-FFFFFF?style=for-the-badge&labelColor=BA2E09)](https://solved.ac/problems/level/1)
  
 | # | 제목 | 언어 |
 |:-:|-|:-:|
@@ -37,6 +37,7 @@
 |10699|[오늘 날짜]("https://www.acmicpc.net/problem/10699")|[C++17](https://github.com/Knabin/Baekjoon/blob/master/Bronze-5/10699.cpp)|
 |10872|[팩토리얼]("https://www.acmicpc.net/problem/10872")|[C++17](https://github.com/Knabin/Baekjoon/blob/master/Bronze-5/10872.cpp)|
 |11654|[아스키 코드]("https://www.acmicpc.net/problem/11654")|[C++17](https://github.com/Knabin/Baekjoon/blob/master/Bronze-5/11654.cpp)|
+|25083|[새싹]("https://www.acmicpc.net/problem/25083")|[C++17](https://github.com/Knabin/Baekjoon/blob/master/Bronze-5/25083.cpp)|
 
 [![IV](https://img.shields.io/badge/IV-(3_/_145)-FFFFFF?style=for-the-badge&labelColor=C44C0A)](https://solved.ac/problems/level/2)
 | # | 제목 | 언어 |
