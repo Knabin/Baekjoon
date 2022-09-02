@@ -17,7 +17,7 @@
 <details>
 <summary><h3>Bronze</h3></summary>
 
-[![V](https://img.shields.io/badge/V-(17_/_98)-FFFFFF?style=for-the-badge&labelColor=BA2E09)](https://solved.ac/problems/level/1)
+[![V](https://img.shields.io/badge/V-(17_/_97)-FFFFFF?style=for-the-badge&labelColor=BA2E09)](https://solved.ac/problems/level/1)
  
 | # | 제목 | 언어 |
 |:-:|-|:-:|
@@ -39,19 +39,19 @@
 |11654|[아스키 코드]("https://www.acmicpc.net/problem/11654")|[C++17](https://github.com/Knabin/Baekjoon/blob/master/Bronze-5/11654.cpp)|
 |25083|[새싹]("https://www.acmicpc.net/problem/25083")|[C++17](https://github.com/Knabin/Baekjoon/blob/master/Bronze-5/25083.cpp)|
 
-[![IV](https://img.shields.io/badge/IV-(3_/_145)-FFFFFF?style=for-the-badge&labelColor=C44C0A)](https://solved.ac/problems/level/2)
+[![IV](https://img.shields.io/badge/IV-(3_/_149)-FFFFFF?style=for-the-badge&labelColor=C44C0A)](https://solved.ac/problems/level/2)
 | # | 제목 | 언어 |
 |:-:|-|:-:|
 |2440|[별 찍기 - 3]("https://www.acmicpc.net/problem/2440")|[C++17](https://github.com/Knabin/Baekjoon/blob/master/Bronze-4/2440.cpp)|
 |2480|[주사위 세개]("https://www.acmicpc.net/problem/2480")|[C++17](https://github.com/Knabin/Baekjoon/blob/master/Bronze-4/2480.cpp)|
 |10808|[알파벳 개수]("https://www.acmicpc.net/problem/10808")|[C++17](https://github.com/Knabin/Baekjoon/blob/master/Bronze-4/10808.cpp)|
 
-[![III](https://img.shields.io/badge/III-(1_/_471)-FFFFFF?style=for-the-badge&labelColor=AD5600)](https://solved.ac/problems/level/3)
+[![III](https://img.shields.io/badge/III-(1_/_486)-FFFFFF?style=for-the-badge&labelColor=AD5600)](https://solved.ac/problems/level/3)
 | # | 제목 | 언어 |
 |:-:|-|:-:|
 |1085|[직사각형에서 탈출]("https://www.acmicpc.net/problem/1085")|[C++17](https://github.com/Knabin/Baekjoon/blob/master/Bronze-3/1085.cpp)|
 
-[![II](https://img.shields.io/badge/II-(10_/_846)-FFFFFF?style=for-the-badge&labelColor=C47F0A)](https://solved.ac/problems/level/4)
+[![II](https://img.shields.io/badge/II-(10_/_826)-FFFFFF?style=for-the-badge&labelColor=C47F0A)](https://solved.ac/problems/level/4)
 | # | 제목 | 언어 |
 |:-:|-|:-:|
 |1152|[단어의 개수]("https://www.acmicpc.net/problem/1152")|[C++17](https://github.com/Knabin/Baekjoon/blob/master/Bronze-2/1152.cpp)|
@@ -65,7 +65,7 @@
 |10809|[알파벳 찾기]("https://www.acmicpc.net/problem/10809")|[C++17](https://github.com/Knabin/Baekjoon/blob/master/Bronze-2/10809.cpp)|
 |11720|[숫자의 합]("https://www.acmicpc.net/problem/11720")|[C++17](https://github.com/Knabin/Baekjoon/blob/master/Bronze-2/11720.cpp)|
 
-[![I](https://img.shields.io/badge/I-(8_/_615)-FFFFFF?style=for-the-badge&labelColor=BA8A09)](https://solved.ac/problems/level/5)
+[![I](https://img.shields.io/badge/I-(8_/_621)-FFFFFF?style=for-the-badge&labelColor=BA8A09)](https://solved.ac/problems/level/5)
 | # | 제목 | 언어 |
 |:-:|-|:-:|
 |1157|[단어 공부]("https://www.acmicpc.net/problem/1157")|[C++17](https://github.com/Knabin/Baekjoon/blob/master/Bronze-1/1157.cpp)|
@@ -84,7 +84,7 @@
 <details>
 <summary><h3>Silver</h3></summary> 
 
-[![V](https://img.shields.io/badge/V-(9_/_599)-FFFFFF?style=for-the-badge&labelColor=444487)](https://solved.ac/problems/level/6)
+[![V](https://img.shields.io/badge/V-(9_/_605)-FFFFFF?style=for-the-badge&labelColor=444487)](https://solved.ac/problems/level/6)
 | # | 제목 | 언어 |
 |:-:|-|:-:|
 |1181|[단어 정렬]("https://www.acmicpc.net/problem/1181")|[C++17](https://github.com/Knabin/Baekjoon/blob/master/Silver-5/1181.cpp)|
@@ -97,7 +97,7 @@
 |4673|[셀프 넘버]("https://www.acmicpc.net/problem/4673")|[C++17](https://github.com/Knabin/Baekjoon/blob/master/Silver-5/4673.cpp)|
 |11650|[좌표 정렬하기]("https://www.acmicpc.net/problem/11650")|[C++17](https://github.com/Knabin/Baekjoon/blob/master/Silver-5/11650.cpp)|
 
-[![IV](https://img.shields.io/badge/IV-(9_/_703)-FFFFFF?style=for-the-badge&labelColor=495B91)](https://solved.ac/problems/level/7)
+[![IV](https://img.shields.io/badge/IV-(9_/_705)-FFFFFF?style=for-the-badge&labelColor=495B91)](https://solved.ac/problems/level/7)
 | # | 제목 | 언어 |
 |:-:|-|:-:|
 |1018|[체스판 다시 칠하기]("https://www.acmicpc.net/problem/1018")|[C++17](https://github.com/Knabin/Baekjoon/blob/master/Silver-5/1018.cpp)|
@@ -111,7 +111,7 @@
 |10828|[스택]("https://www.acmicpc.net/problem/10828")|[C++17](https://github.com/Knabin/Baekjoon/blob/master/Silver-4/10828.cpp)|
 |10845|[큐]("https://www.acmicpc.net/problem/10845")|[C++17](https://github.com/Knabin/Baekjoon/blob/master/Silver-4/10845.cpp)|
 
-[![III](https://img.shields.io/badge/III-(4_/_707)-FFFFFF?style=for-the-badge&labelColor=435F7A)](https://solved.ac/problems/level/8)
+[![III](https://img.shields.io/badge/III-(4_/_719)-FFFFFF?style=for-the-badge&labelColor=435F7A)](https://solved.ac/problems/level/8)
 | # | 제목 | 언어 |
 |:-:|-|:-:|
 |1213|[팰린드롬 만들기]("https://www.acmicpc.net/problem/1213")|[C++17](https://github.com/Knabin/Baekjoon/blob/master/Silver-3/1213.cpp)|
@@ -119,12 +119,12 @@
 |4375|[1]("https://www.acmicpc.net/problem/4375")|[C++17](https://github.com/Knabin/Baekjoon/blob/master/Silver-3/4375.cpp)|
 |9996|[한국이 그리울 땐 서버에 접속하지]("https://www.acmicpc.net/problem/9996")|[C++17](https://github.com/Knabin/Baekjoon/blob/master/Silver-3/9996.cpp)|
 
-[![II](https://img.shields.io/badge/II-(1_/_737)-FFFFFF?style=for-the-badge&labelColor=498191)](https://solved.ac/problems/level/9)
+[![II](https://img.shields.io/badge/II-(1_/_752)-FFFFFF?style=for-the-badge&labelColor=498191)](https://solved.ac/problems/level/9)
 | # | 제목 | 언어 |
 |:-:|-|:-:|
 |1654|[랜선 자르기]("https://www.acmicpc.net/problem/1654")|[C++17](https://github.com/Knabin/Baekjoon/blob/master/Silver-2/1654.cpp)|
 
-[![I](https://img.shields.io/badge/I-(1_/_740)-FFFFFF?style=for-the-badge&labelColor=448784)](https://solved.ac/problems/level/10)
+[![I](https://img.shields.io/badge/I-(1_/_739)-FFFFFF?style=for-the-badge&labelColor=448784)](https://solved.ac/problems/level/10)
 | # | 제목 | 언어 |
 |:-:|-|:-:|
 |1629|[곱셈]("https://www.acmicpc.net/problem/1629")|[C++17](https://github.com/Knabin/Baekjoon/blob/master/Silver-1/1629.cpp)|
@@ -136,15 +136,15 @@
 <details>
 <summary><h3>Gold</h3></summary>
 
-[![V](https://img.shields.io/badge/V-(0_/_62)-FFFFFF?style=for-the-badge&labelColor=F7670C)](https://solved.ac/problems/level/11)
+[![V](https://img.shields.io/badge/V-(0_/_845)-FFFFFF?style=for-the-badge&labelColor=F7670C)](https://solved.ac/problems/level/11)
 
-[![IV](https://img.shields.io/badge/IV-(0_/_112)-FFFFFF?style=for-the-badge&labelColor=D6770B)](https://solved.ac/problems/level/12)
+[![IV](https://img.shields.io/badge/IV-(0_/_973)-FFFFFF?style=for-the-badge&labelColor=D6770B)](https://solved.ac/problems/level/12)
 
-[![III](https://img.shields.io/badge/III-(0_/_409)-FFFFFF?style=for-the-badge&labelColor=EC9A00)](https://solved.ac/problems/level/13)
+[![III](https://img.shields.io/badge/III-(0_/_958)-FFFFFF?style=for-the-badge&labelColor=EC9A00)](https://solved.ac/problems/level/13)
 
-[![II](https://img.shields.io/badge/II-(0_/_710)-FFFFFF?style=for-the-badge&labelColor=D6A30B)](https://solved.ac/problems/level/14)
+[![II](https://img.shields.io/badge/II-(0_/_868)-FFFFFF?style=for-the-badge&labelColor=D6A30B)](https://solved.ac/problems/level/14)
 
-[![I](https://img.shields.io/badge/I-(0_/_447)-FFFFFF?style=for-the-badge&labelColor=F7D40C)](https://solved.ac/problems/level/15)
+[![I](https://img.shields.io/badge/I-(0_/_778)-FFFFFF?style=for-the-badge&labelColor=F7D40C)](https://solved.ac/problems/level/15)
 
 </details>
 
@@ -153,15 +153,15 @@
 <details>
 <summary><h3>Platinum</h3></summary>
 
-[![V](https://img.shields.io/badge/V-(0_/_62)-FFFFFF?style=for-the-badge&labelColor=1DC2F0)](https://solved.ac/problems/level/16)
+[![V](https://img.shields.io/badge/V-(0_/_814)-FFFFFF?style=for-the-badge&labelColor=1DC2F0)](https://solved.ac/problems/level/16)
 
-[![IV](https://img.shields.io/badge/IV-(0_/_112)-FFFFFF?style=for-the-badge&labelColor=1EFAEF)](https://solved.ac/problems/level/17)
+[![IV](https://img.shields.io/badge/IV-(0_/_836)-FFFFFF?style=for-the-badge&labelColor=1EFAEF)](https://solved.ac/problems/level/17)
 
-[![III](https://img.shields.io/badge/III-(0_/_409)-FFFFFF?style=for-the-badge&labelColor=27E2A4)](https://solved.ac/problems/level/18)
+[![III](https://img.shields.io/badge/III-(0_/_878)-FFFFFF?style=for-the-badge&labelColor=27E2A4)](https://solved.ac/problems/level/18)
 
-[![II](https://img.shields.io/badge/II-(0_/_710)-FFFFFF?style=for-the-badge&labelColor=1EFA72)](https://solved.ac/problems/level/19)
+[![II](https://img.shields.io/badge/II-(0_/_842)-FFFFFF?style=for-the-badge&labelColor=1EFA72)](https://solved.ac/problems/level/19)
 
-[![I](https://img.shields.io/badge/I-(0_/_447)-FFFFFF?style=for-the-badge&labelColor=1DF032)](https://solved.ac/problems/level/20)
+[![I](https://img.shields.io/badge/I-(0_/_706)-FFFFFF?style=for-the-badge&labelColor=1DF032)](https://solved.ac/problems/level/20)
 
 </details>
 
@@ -170,15 +170,15 @@
 <details>
 <summary><h3>Diamond</h3></summary>
 
-[![V](https://img.shields.io/badge/V-(0_/_62)-FFFFFF?style=for-the-badge&labelColor=0D3BFE)](https://solved.ac/problems/level/21)
+[![V](https://img.shields.io/badge/V-(0_/_706)-FFFFFF?style=for-the-badge&labelColor=0D3BFE)](https://solved.ac/problems/level/21)
 
-[![IV](https://img.shields.io/badge/IV-(0_/_112)-FFFFFF?style=for-the-badge&labelColor=0B6EE6)](https://solved.ac/problems/level/22)
+[![IV](https://img.shields.io/badge/IV-(0_/_653)-FFFFFF?style=for-the-badge&labelColor=0B6EE6)](https://solved.ac/problems/level/22)
 
-[![III](https://img.shields.io/badge/III-(0_/_409)-FFFFFF?style=for-the-badge&labelColor=00B4FC)](https://solved.ac/problems/level/23)
+[![III](https://img.shields.io/badge/III-(0_/_446)-FFFFFF?style=for-the-badge&labelColor=00B4FC)](https://solved.ac/problems/level/23)
 
-[![II](https://img.shields.io/badge/II-(0_/_710)-FFFFFF?style=for-the-badge&labelColor=0BE1E6)](https://solved.ac/problems/level/24)
+[![II](https://img.shields.io/badge/II-(0_/_358)-FFFFFF?style=for-the-badge&labelColor=0BE1E6)](https://solved.ac/problems/level/24)
 
-[![I](https://img.shields.io/badge/I-(0_/_447)-FFFFFF?style=for-the-badge&labelColor=0DFEBF)](https://solved.ac/problems/level/25)
+[![I](https://img.shields.io/badge/I-(0_/_285)-FFFFFF?style=for-the-badge&labelColor=0DFEBF)](https://solved.ac/problems/level/25)
 
 </details>
 
@@ -187,14 +187,14 @@
 <details>
 <summary><h3>Ruby</h3></summary>
 
-[![V](https://img.shields.io/badge/V-(0_/_179)-FFFFFF?style=for-the-badge&labelColor=CC0DFF)](https://solved.ac/problems/level/26)
+[![V](https://img.shields.io/badge/V-(0_/_215)-FFFFFF?style=for-the-badge&labelColor=CC0DFF)](https://solved.ac/problems/level/26)
 
-[![IV](https://img.shields.io/badge/IV-(0_/_98)-FFFFFF?style=for-the-badge&labelColor=E80CCE)](https://solved.ac/problems/level/27)
+[![IV](https://img.shields.io/badge/IV-(0_/_112)-FFFFFF?style=for-the-badge&labelColor=E80CCE)](https://solved.ac/problems/level/27)
 
-[![III](https://img.shields.io/badge/III-(0_/_54)-FFFFFF?style=for-the-badge&labelColor=FF0062)](https://solved.ac/problems/level/28)
+[![III](https://img.shields.io/badge/III-(0_/_69)-FFFFFF?style=for-the-badge&labelColor=FF0062)](https://solved.ac/problems/level/28)
 
-[![II](https://img.shields.io/badge/II-(0_/_15)-FFFFFF?style=for-the-badge&labelColor=E8130C)](https://solved.ac/problems/level/29)
+[![II](https://img.shields.io/badge/II-(0_/_26)-FFFFFF?style=for-the-badge&labelColor=E8130C)](https://solved.ac/problems/level/29)
 
-[![I](https://img.shields.io/badge/I-(0_/_9)-FFFFFF?style=for-the-badge&labelColor=FF380D)](https://solved.ac/problems/level/30)
+[![I](https://img.shields.io/badge/I-(0_/_15)-FFFFFF?style=for-the-badge&labelColor=FF380D)](https://solved.ac/problems/level/30)
 
 </details>
