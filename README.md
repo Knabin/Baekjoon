@@ -124,10 +124,11 @@
 |:-:|-|:-:|
 |1654|[랜선 자르기]("https://www.acmicpc.net/problem/1654")|[C++17](https://github.com/Knabin/Baekjoon/blob/master/Silver-2/1654.cpp)|
 
-[![I](https://img.shields.io/badge/I-(1_/_739)-FFFFFF?style=for-the-badge&labelColor=448784)](https://solved.ac/problems/level/10)
+[![I](https://img.shields.io/badge/I-(2_/_736)-FFFFFF?style=for-the-badge&labelColor=448784)](https://solved.ac/problems/level/10)
 | # | 제목 | 언어 |
 |:-:|-|:-:|
 |1629|[곱셈]("https://www.acmicpc.net/problem/1629")|[C++17](https://github.com/Knabin/Baekjoon/blob/master/Silver-1/1629.cpp)|
+|2178|[미로 탐색]("https://www.acmicpc.net/problem/2178")|[C++17](https://github.com/Knabin/Baekjoon/blob/master/Silver-1/2178.cpp)|
 
 </details>
 
