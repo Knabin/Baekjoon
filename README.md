@@ -98,7 +98,7 @@
 |4673|[셀프 넘버]("https://www.acmicpc.net/problem/4673")|[C++17](https://github.com/Knabin/Baekjoon/blob/master/Silver-5/4673.cpp)|
 |11650|[좌표 정렬하기]("https://www.acmicpc.net/problem/11650")|[C++17](https://github.com/Knabin/Baekjoon/blob/master/Silver-5/11650.cpp)|
 
-[![IV](https://img.shields.io/badge/IV-(11_/_705)-FFFFFF?style=for-the-badge&labelColor=495B91)](https://solved.ac/problems/level/7)
+[![IV](https://img.shields.io/badge/IV-(12_/_705)-FFFFFF?style=for-the-badge&labelColor=495B91)](https://solved.ac/problems/level/7)
 | # | 제목 | 언어 |
 |:-:|-|:-:|
 |1018|[체스판 다시 칠하기]("https://www.acmicpc.net/problem/1018")|[C++17](https://github.com/Knabin/Baekjoon/blob/master/Silver-4/1018.cpp)|
@@ -110,6 +110,7 @@
 |2839|[설탕 배달]("https://www.acmicpc.net/problem/2839")|[C++17](https://github.com/Knabin/Baekjoon/blob/master/Silver-4/2839.cpp)|
 |3986|[좋은 단어]("https://www.acmicpc.net/problem/3986")|[C++17](https://github.com/Knabin/Baekjoon/blob/master/Silver-4/3986.cpp)|
 |9012|[괄호]("https://www.acmicpc.net/problem/9012")|[C++17](https://github.com/Knabin/Baekjoon/blob/master/Silver-4/9012.cpp)|
+|10773|[제로]("https://www.acmicpc.net/problem/10773")|[C++17](https://github.com/Knabin/Baekjoon/blob/master/Silver-4/10773.cpp)|
 |10828|[스택]("https://www.acmicpc.net/problem/10828")|[C++17](https://github.com/Knabin/Baekjoon/blob/master/Silver-4/10828.cpp)|
 |10845|[큐]("https://www.acmicpc.net/problem/10845")|[C++17](https://github.com/Knabin/Baekjoon/blob/master/Silver-4/10845.cpp)|
 
