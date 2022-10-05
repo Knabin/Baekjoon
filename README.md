@@ -126,11 +126,12 @@
 |1012|[유기농 배추]("https://www.acmicpc.net/problem/1012")|[C++17](https://github.com/Knabin/Baekjoon/blob/master/Silver-2/1012.cpp)|
 |1654|[랜선 자르기]("https://www.acmicpc.net/problem/1654")|[C++17](https://github.com/Knabin/Baekjoon/blob/master/Silver-2/1654.cpp)|
 
-[![I](https://img.shields.io/badge/I-(2_/_736)-FFFFFF?style=for-the-badge&labelColor=448784)](https://solved.ac/problems/level/10)
+[![I](https://img.shields.io/badge/I-(3_/_736)-FFFFFF?style=for-the-badge&labelColor=448784)](https://solved.ac/problems/level/10)
 | # | 제목 | 언어 |
 |:-:|-|:-:|
 |1629|[곱셈]("https://www.acmicpc.net/problem/1629")|[C++17](https://github.com/Knabin/Baekjoon/blob/master/Silver-1/1629.cpp)|
 |2178|[미로 탐색]("https://www.acmicpc.net/problem/2178")|[C++17](https://github.com/Knabin/Baekjoon/blob/master/Silver-1/2178.cpp)|
+|2468|[안전 영역]("https://www.acmicpc.net/problem/2468")|[C++17](https://github.com/Knabin/Baekjoon/blob/master/Silver-1/2468.cpp)|
 
 </details>
 
@@ -141,7 +142,8 @@
 
 [![V](https://img.shields.io/badge/V-(0_/_845)-FFFFFF?style=for-the-badge&labelColor=F7670C)](https://solved.ac/problems/level/11)
 
-[![IV](https://img.shields.io/badge/IV-(0_/_973)-FFFFFF?style=for-the-badge&labelColor=D6770B)](https://solved.ac/problems/level/12)
+[![IV](https://img.shields.io/badge/IV-(1_/_992)-FFFFFF?style=for-the-badge&labelColor=D6770B)](https://solved.ac/problems/level/12)
+|17298|[오큰수]("https://www.acmicpc.net/problem/17298")|[C++17](https://github.com/Knabin/Baekjoon/blob/master/Gold-4/17298.cpp)|
 
 [![III](https://img.shields.io/badge/III-(0_/_958)-FFFFFF?style=for-the-badge&labelColor=EC9A00)](https://solved.ac/problems/level/13)
 
