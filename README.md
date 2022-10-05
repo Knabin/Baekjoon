@@ -145,7 +145,8 @@
 <details>
 <summary><h3>Gold</h3></summary>
 
-[![V](https://img.shields.io/badge/V-(0_/_845)-FFFFFF?style=for-the-badge&labelColor=F7670C)](https://solved.ac/problems/level/11)
+[![V](https://img.shields.io/badge/V-(1_/_845)-FFFFFF?style=for-the-badge&labelColor=F7670C)](https://solved.ac/problems/level/11)
+|2493|[탑]("https://www.acmicpc.net/problem/2493")|[C++17](https://github.com/Knabin/Baekjoon/blob/master/Gold-5/2493.cpp)|
 
 [![IV](https://img.shields.io/badge/IV-(1_/_992)-FFFFFF?style=for-the-badge&labelColor=D6770B)](https://solved.ac/problems/level/12)
 |17298|[오큰수]("https://www.acmicpc.net/problem/17298")|[C++17](https://github.com/Knabin/Baekjoon/blob/master/Gold-4/17298.cpp)|
