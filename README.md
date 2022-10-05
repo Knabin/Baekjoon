@@ -123,11 +123,12 @@
 |4375|[1]("https://www.acmicpc.net/problem/4375")|[C++17](https://github.com/Knabin/Baekjoon/blob/master/Silver-3/4375.cpp)|
 |9996|[한국이 그리울 땐 서버에 접속하지]("https://www.acmicpc.net/problem/9996")|[C++17](https://github.com/Knabin/Baekjoon/blob/master/Silver-3/9996.cpp)|
 
-[![II](https://img.shields.io/badge/II-(3_/_754)-FFFFFF?style=for-the-badge&labelColor=498191)](https://solved.ac/problems/level/9)
+[![II](https://img.shields.io/badge/II-(4_/_754)-FFFFFF?style=for-the-badge&labelColor=498191)](https://solved.ac/problems/level/9)
 | # | 제목 | 언어 |
 |:-:|-|:-:|
 |1012|[유기농 배추]("https://www.acmicpc.net/problem/1012")|[C++17](https://github.com/Knabin/Baekjoon/blob/master/Silver-2/1012.cpp)|
 |1654|[랜선 자르기]("https://www.acmicpc.net/problem/1654")|[C++17](https://github.com/Knabin/Baekjoon/blob/master/Silver-2/1654.cpp)|
+|1874|[스택 수열]("https://www.acmicpc.net/problem/1874")|[C++17](https://github.com/Knabin/Baekjoon/blob/master/Silver-2/1874.cpp)|
 |5397|[키로거]("https://www.acmicpc.net/problem/5397")|[C++17](https://github.com/Knabin/Baekjoon/blob/master/Silver-2/5397.cpp)|
 
 [![I](https://img.shields.io/badge/I-(3_/_736)-FFFFFF?style=for-the-badge&labelColor=448784)](https://solved.ac/problems/level/10)
