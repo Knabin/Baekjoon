@@ -112,11 +112,12 @@
 |10828|[스택]("https://www.acmicpc.net/problem/10828")|[C++17](https://github.com/Knabin/Baekjoon/blob/master/Silver-4/10828.cpp)|
 |10845|[큐]("https://www.acmicpc.net/problem/10845")|[C++17](https://github.com/Knabin/Baekjoon/blob/master/Silver-4/10845.cpp)|
 
-[![III](https://img.shields.io/badge/III-(4_/_719)-FFFFFF?style=for-the-badge&labelColor=435F7A)](https://solved.ac/problems/level/8)
+[![III](https://img.shields.io/badge/III-(5_/_719)-FFFFFF?style=for-the-badge&labelColor=435F7A)](https://solved.ac/problems/level/8)
 | # | 제목 | 언어 |
 |:-:|-|:-:|
 |1213|[팰린드롬 만들기]("https://www.acmicpc.net/problem/1213")|[C++17](https://github.com/Knabin/Baekjoon/blob/master/Silver-3/1213.cpp)|
 |2559|[수열]("https://www.acmicpc.net/problem/2559")|[C++17](https://github.com/Knabin/Baekjoon/blob/master/Silver-3/2559.cpp)|
+|3273|[두 수의 합]("https://www.acmicpc.net/problem/3273")|[C++17](https://github.com/Knabin/Baekjoon/blob/master/Silver-3/3273.cpp)|
 |4375|[1]("https://www.acmicpc.net/problem/4375")|[C++17](https://github.com/Knabin/Baekjoon/blob/master/Silver-3/4375.cpp)|
 |9996|[한국이 그리울 땐 서버에 접속하지]("https://www.acmicpc.net/problem/9996")|[C++17](https://github.com/Knabin/Baekjoon/blob/master/Silver-3/9996.cpp)|
 
