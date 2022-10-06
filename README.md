@@ -115,7 +115,7 @@
 |10845|[큐]("https://www.acmicpc.net/problem/10845")|[C++17](https://github.com/Knabin/Baekjoon/blob/master/Silver-4/10845.cpp)|
 |18258|[큐 2]("https://www.acmicpc.net/problem/18258")|[C++17](https://github.com/Knabin/Baekjoon/blob/master/Silver-4/18258.cpp)|
 
-[![III](https://img.shields.io/badge/III-(6_/_719)-FFFFFF?style=for-the-badge&labelColor=435F7A)](https://solved.ac/problems/level/8)
+[![III](https://img.shields.io/badge/III-(7_/_719)-FFFFFF?style=for-the-badge&labelColor=435F7A)](https://solved.ac/problems/level/8)
 | # | 제목 | 언어 |
 |:-:|-|:-:|
 |1021|[회전하는 큐]("https://www.acmicpc.net/problem/1021")|[C++17](https://github.com/Knabin/Baekjoon/blob/master/Silver-3/1021.cpp)|
@@ -124,6 +124,8 @@
 |3273|[두 수의 합]("https://www.acmicpc.net/problem/3273")|[C++17](https://github.com/Knabin/Baekjoon/blob/master/Silver-3/3273.cpp)|
 |4375|[1]("https://www.acmicpc.net/problem/4375")|[C++17](https://github.com/Knabin/Baekjoon/blob/master/Silver-3/4375.cpp)|
 |9996|[한국이 그리울 땐 서버에 접속하지]("https://www.acmicpc.net/problem/9996")|[C++17](https://github.com/Knabin/Baekjoon/blob/master/Silver-3/9996.cpp)|
+|10799|[쇠막대기]("https://www.acmicpc.net/problem/10799")|[C++17](https://github.com/Knabin/Baekjoon/blob/master/Silver-3/10799.cpp)|
+
 
 [![II](https://img.shields.io/badge/II-(4_/_754)-FFFFFF?style=for-the-badge&labelColor=498191)](https://solved.ac/problems/level/9)
 | # | 제목 | 언어 |
