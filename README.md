@@ -135,10 +135,11 @@
 |1874|[스택 수열]("https://www.acmicpc.net/problem/1874")|[C++17](https://github.com/Knabin/Baekjoon/blob/master/Silver-2/1874.cpp)|
 |5397|[키로거]("https://www.acmicpc.net/problem/5397")|[C++17](https://github.com/Knabin/Baekjoon/blob/master/Silver-2/5397.cpp)|
 
-[![I](https://img.shields.io/badge/I-(4_/_736)-FFFFFF?style=for-the-badge&labelColor=448784)](https://solved.ac/problems/level/10)
+[![I](https://img.shields.io/badge/I-(5_/_736)-FFFFFF?style=for-the-badge&labelColor=448784)](https://solved.ac/problems/level/10)
 | # | 제목 | 언어 |
 |:-:|-|:-:|
 |1629|[곱셈]("https://www.acmicpc.net/problem/1629")|[C++17](https://github.com/Knabin/Baekjoon/blob/master/Silver-1/1629.cpp)|
+|1926|[그림]("https://www.acmicpc.net/problem/1926")|[C++17](https://github.com/Knabin/Baekjoon/blob/master/Silver-1/1926.cpp)|
 |2178|[미로 탐색]("https://www.acmicpc.net/problem/2178")|[C++17](https://github.com/Knabin/Baekjoon/blob/master/Silver-1/2178.cpp)|
 |2468|[안전 영역]("https://www.acmicpc.net/problem/2468")|[C++17](https://github.com/Knabin/Baekjoon/blob/master/Silver-1/2468.cpp)|
 |2504|[괄호의 값]("https://www.acmicpc.net/problem/2504")|[C++17](https://github.com/Knabin/Baekjoon/blob/master/Silver-1/2504.cpp)|
