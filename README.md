@@ -52,7 +52,7 @@
 |:-:|-|:-:|
 |1085|[직사각형에서 탈출]("https://www.acmicpc.net/problem/1085")|[C++17](https://github.com/Knabin/Baekjoon/blob/master/Bronze-3/1085.cpp)|
 
-[![II](https://img.shields.io/badge/II-(11_/_826)-FFFFFF?style=for-the-badge&labelColor=C47F0A)](https://solved.ac/problems/level/4)
+[![II](https://img.shields.io/badge/II-(12_/_826)-FFFFFF?style=for-the-badge&labelColor=C47F0A)](https://solved.ac/problems/level/4)
 | # | 제목 | 언어 |
 |:-:|-|:-:|
 |1152|[단어의 개수]("https://www.acmicpc.net/problem/1152")|[C++17](https://github.com/Knabin/Baekjoon/blob/master/Bronze-2/1152.cpp)|
@@ -64,6 +64,7 @@
 |2920|[음계]("https://www.acmicpc.net/problem/2920")|[C++17](https://github.com/Knabin/Baekjoon/blob/master/Bronze-2/2920.cpp)|
 |2979|[트럭 주차]("https://www.acmicpc.net/problem/2979")|[C++17](https://github.com/Knabin/Baekjoon/blob/master/Bronze-2/2979.cpp)|
 |10809|[알파벳 찾기]("https://www.acmicpc.net/problem/10809")|[C++17](https://github.com/Knabin/Baekjoon/blob/master/Bronze-2/10809.cpp)|
+|11328|[Strfry]("https://www.acmicpc.net/problem/11328")|[C++17](https://github.com/Knabin/Baekjoon/blob/master/Bronze-2/11328.cpp)|
 |11720|[숫자의 합]("https://www.acmicpc.net/problem/11720")|[C++17](https://github.com/Knabin/Baekjoon/blob/master/Bronze-2/11720.cpp)|
 |13300|[방 배정]("https://www.acmicpc.net/problem/13300")|[C++17](https://github.com/Knabin/Baekjoon/blob/master/Bronze-2/13300.cpp)|
 
