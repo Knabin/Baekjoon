@@ -17,7 +17,7 @@
 <details>
 <summary><h3>Bronze</h3></summary>
 
-[![V](https://img.shields.io/badge/V-(20_/_97)-FFFFFF?style=for-the-badge&labelColor=BA2E09)](https://solved.ac/problems/level/1)
+[![V](https://img.shields.io/badge/V-(21_/_97)-FFFFFF?style=for-the-badge&labelColor=BA2E09)](https://solved.ac/problems/level/1)
  
 | # | 제목 | 언어 |
 |:-:|-|:-:|
@@ -32,6 +32,7 @@
 |2558|[A+B - 2]("https://www.acmicpc.net/problem/2558")|[C++17](https://github.com/Knabin/Baekjoon/blob/master/Bronze-5/2558.cpp)|
 |2738|[행렬 덧셈]("https://www.acmicpc.net/problem/2738")|[C++17](https://github.com/Knabin/Baekjoon/blob/master/Bronze-5/2738.cpp)|
 |2743|[단어 길이 재기]("https://www.acmicpc.net/problem/2743")|[C++17](https://github.com/Knabin/Baekjoon/blob/master/Bronze-5/2743.cpp)|
+|2744|[대소문자 바꾸기]("https://www.acmicpc.net/problem/2744")|[C++17](https://github.com/Knabin/Baekjoon/blob/master/Bronze-5/2744.cpp)|
 |5597|[과제 안 내신 분..?]("https://www.acmicpc.net/problem/5597")|[C++17](https://github.com/Knabin/Baekjoon/blob/master/Bronze-5/5597.cpp)|
 |7287|[등록]("https://www.acmicpc.net/problem/7287")|[C++17](https://github.com/Knabin/Baekjoon/blob/master/Bronze-5/7287.cpp)|
 |8393|[합]("https://www.acmicpc.net/problem/8393")|[C++17](https://github.com/Knabin/Baekjoon/blob/master/Bronze-5/8393.cpp)|
