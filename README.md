@@ -56,12 +56,13 @@
 |1085|[직사각형에서 탈출]("https://www.acmicpc.net/problem/1085")|[C++17](https://github.com/Knabin/Baekjoon/blob/master/Bronze-3/1085.cpp)|
 |4153|[직각삼각형]("https://www.acmicpc.net/problem/4153")|[C++17](https://github.com/Knabin/Baekjoon/blob/master/Bronze-3/4153.cpp)|
 
-[![II](https://img.shields.io/badge/II-(14_/_826)-FFFFFF?style=for-the-badge&labelColor=C47F0A)](https://solved.ac/problems/level/4)
+[![II](https://img.shields.io/badge/II-(15_/_826)-FFFFFF?style=for-the-badge&labelColor=C47F0A)](https://solved.ac/problems/level/4)
 | # | 제목 | 언어 |
 |:-:|-|:-:|
 |1152|[단어의 개수]("https://www.acmicpc.net/problem/1152")|[C++17](https://github.com/Knabin/Baekjoon/blob/master/Bronze-2/1152.cpp)|
 |1159|[농구 경기]("https://www.acmicpc.net/problem/1159")|[C++17](https://github.com/Knabin/Baekjoon/blob/master/Bronze-2/1159.cpp)|
 |1712|[손익분기점]("https://www.acmicpc.net/problem/1712")|[C++17](https://github.com/Knabin/Baekjoon/blob/master/Bronze-2/1712.cpp)|
+|2231|[분해합]("https://www.acmicpc.net/problem/2231")|[C++17](https://github.com/Knabin/Baekjoon/blob/master/Bronze-2/2231.cpp)|
 |2675|[문자열 반복]("https://www.acmicpc.net/problem/2675")|[C++17](https://github.com/Knabin/Baekjoon/blob/master/Bronze-2/2675.cpp)|
 |2750|[수 정렬하기]("https://www.acmicpc.net/problem/2750")|[C++17](https://github.com/Knabin/Baekjoon/blob/master/Bronze-2/2750.cpp)|
 |2798|[블랙잭]("https://www.acmicpc.net/problem/2798")|[C++17](https://github.com/Knabin/Baekjoon/blob/master/Bronze-2/2798.cpp)|
