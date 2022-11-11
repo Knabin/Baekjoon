@@ -75,7 +75,7 @@
 |11720|[숫자의 합]("https://www.acmicpc.net/problem/11720")|[C++17](https://github.com/Knabin/Baekjoon/blob/master/Bronze-2/11720.cpp)|
 |13300|[방 배정]("https://www.acmicpc.net/problem/13300")|[C++17](https://github.com/Knabin/Baekjoon/blob/master/Bronze-2/13300.cpp)|
 
-[![I](https://img.shields.io/badge/I-(9_/_621)-FFFFFF?style=for-the-badge&labelColor=BA8A09)](https://solved.ac/problems/level/5)
+[![I](https://img.shields.io/badge/I-(10_/_621)-FFFFFF?style=for-the-badge&labelColor=BA8A09)](https://solved.ac/problems/level/5)
 | # | 제목 | 언어 |
 |:-:|-|:-:|
 |1157|[단어 공부]("https://www.acmicpc.net/problem/1157")|[C++17](https://github.com/Knabin/Baekjoon/blob/master/Bronze-1/1157.cpp)|
@@ -85,6 +85,7 @@
 |2309|[일곱 난쟁이]("https://www.acmicpc.net/problem/2309")|[C++17](https://github.com/Knabin/Baekjoon/blob/master/Bronze-1/2309.cpp)|
 |2609|[최대공약수와 최소공배수]("https://www.acmicpc.net/problem/2609")|[C++17](https://github.com/Knabin/Baekjoon/blob/master/Bronze-1/2609.cpp)|
 |10988|[팰린드롬인지 확인하기]("https://www.acmicpc.net/problem/10988")|[C++17](https://github.com/Knabin/Baekjoon/blob/master/Bronze-1/10988.cpp)|
+|10989|[수 정렬하기 3]("https://www.acmicpc.net/problem/10989")|[C++17](https://github.com/Knabin/Baekjoon/blob/master/Bronze-1/10989.cpp)|
 |11050|[이항 계수 1]("https://www.acmicpc.net/problem/11050")|[C++17](https://github.com/Knabin/Baekjoon/blob/master/Bronze-1/11050.cpp)|
 |11655|[ROT13]("https://www.acmicpc.net/problem/11655")|[C++17](https://github.com/Knabin/Baekjoon/blob/master/Bronze-1/11655.cpp)|
 
