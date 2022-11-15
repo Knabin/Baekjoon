@@ -62,6 +62,7 @@
 |1152|[단어의 개수]("https://www.acmicpc.net/problem/1152")|[C++17](https://github.com/Knabin/Baekjoon/blob/master/Bronze-2/1152.cpp)|
 |1159|[농구 경기]("https://www.acmicpc.net/problem/1159")|[C++17](https://github.com/Knabin/Baekjoon/blob/master/Bronze-2/1159.cpp)|
 |1712|[손익분기점]("https://www.acmicpc.net/problem/1712")|[C++17](https://github.com/Knabin/Baekjoon/blob/master/Bronze-2/1712.cpp)|
+|2231|[분해합]("https://www.acmicpc.net/problem/2231")|[C++17](https://github.com/Knabin/Baekjoon/blob/master/Bronze-2/2231.cpp)|
 |2675|[문자열 반복]("https://www.acmicpc.net/problem/2675")|[C++17](https://github.com/Knabin/Baekjoon/blob/master/Bronze-2/2675.cpp)|
 |2750|[수 정렬하기]("https://www.acmicpc.net/problem/2750")|[C++17](https://github.com/Knabin/Baekjoon/blob/master/Bronze-2/2750.cpp)|
 |2798|[블랙잭]("https://www.acmicpc.net/problem/2798")|[C++17](https://github.com/Knabin/Baekjoon/blob/master/Bronze-2/2798.cpp)|
@@ -75,7 +76,7 @@
 |13300|[방 배정]("https://www.acmicpc.net/problem/13300")|[C++17](https://github.com/Knabin/Baekjoon/blob/master/Bronze-2/13300.cpp)|
 |15829|[방 배정]("https://www.acmicpc.net/problem/15829")|[C++17](https://github.com/Knabin/Baekjoon/blob/master/Bronze-2/15829.cpp)|
 
-[![I](https://img.shields.io/badge/I-(9_/_621)-FFFFFF?style=for-the-badge&labelColor=BA8A09)](https://solved.ac/problems/level/5)
+[![I](https://img.shields.io/badge/I-(10_/_621)-FFFFFF?style=for-the-badge&labelColor=BA8A09)](https://solved.ac/problems/level/5)
 | # | 제목 | 언어 |
 |:-:|-|:-:|
 |1157|[단어 공부]("https://www.acmicpc.net/problem/1157")|[C++17](https://github.com/Knabin/Baekjoon/blob/master/Bronze-1/1157.cpp)|
@@ -85,6 +86,7 @@
 |2309|[일곱 난쟁이]("https://www.acmicpc.net/problem/2309")|[C++17](https://github.com/Knabin/Baekjoon/blob/master/Bronze-1/2309.cpp)|
 |2609|[최대공약수와 최소공배수]("https://www.acmicpc.net/problem/2609")|[C++17](https://github.com/Knabin/Baekjoon/blob/master/Bronze-1/2609.cpp)|
 |10988|[팰린드롬인지 확인하기]("https://www.acmicpc.net/problem/10988")|[C++17](https://github.com/Knabin/Baekjoon/blob/master/Bronze-1/10988.cpp)|
+|10989|[수 정렬하기 3]("https://www.acmicpc.net/problem/10989")|[C++17](https://github.com/Knabin/Baekjoon/blob/master/Bronze-1/10989.cpp)|
 |11050|[이항 계수 1]("https://www.acmicpc.net/problem/11050")|[C++17](https://github.com/Knabin/Baekjoon/blob/master/Bronze-1/11050.cpp)|
 |11655|[ROT13]("https://www.acmicpc.net/problem/11655")|[C++17](https://github.com/Knabin/Baekjoon/blob/master/Bronze-1/11655.cpp)|
 
@@ -95,7 +97,7 @@
 <details>
 <summary><h3>Silver</h3></summary> 
 
-[![V](https://img.shields.io/badge/V-(11_/_605)-FFFFFF?style=for-the-badge&labelColor=444487)](https://solved.ac/problems/level/6)
+[![V](https://img.shields.io/badge/V-(12_/_605)-FFFFFF?style=for-the-badge&labelColor=444487)](https://solved.ac/problems/level/6)
 | # | 제목 | 언어 |
 |:-:|-|:-:|
 |1181|[단어 정렬]("https://www.acmicpc.net/problem/1181")|[C++17](https://github.com/Knabin/Baekjoon/blob/master/Silver-5/1181.cpp)|
@@ -109,8 +111,9 @@
 |4673|[셀프 넘버]("https://www.acmicpc.net/problem/4673")|[C++17](https://github.com/Knabin/Baekjoon/blob/master/Silver-5/4673.cpp)|
 |10814|[나이순 정렬]("https://www.acmicpc.net/problem/10814")|[C++17](https://github.com/Knabin/Baekjoon/blob/master/Silver-5/10814.cpp)|
 |11650|[좌표 정렬하기]("https://www.acmicpc.net/problem/11650")|[C++17](https://github.com/Knabin/Baekjoon/blob/master/Silver-5/11650.cpp)|
+|11866|[요세푸스 문제 0]("https://www.acmicpc.net/problem/11866")|[C++17](https://github.com/Knabin/Baekjoon/blob/master/Silver-5/11866.cpp)|
 
-[![IV](https://img.shields.io/badge/IV-(13_/_705)-FFFFFF?style=for-the-badge&labelColor=495B91)](https://solved.ac/problems/level/7)
+[![IV](https://img.shields.io/badge/IV-(15_/_705)-FFFFFF?style=for-the-badge&labelColor=495B91)](https://solved.ac/problems/level/7)
 | # | 제목 | 언어 |
 |:-:|-|:-:|
 |1018|[체스판 다시 칠하기]("https://www.acmicpc.net/problem/1018")|[C++17](https://github.com/Knabin/Baekjoon/blob/master/Silver-4/1018.cpp)|
@@ -123,15 +126,18 @@
 |3986|[좋은 단어]("https://www.acmicpc.net/problem/3986")|[C++17](https://github.com/Knabin/Baekjoon/blob/master/Silver-4/3986.cpp)|
 |9012|[괄호]("https://www.acmicpc.net/problem/9012")|[C++17](https://github.com/Knabin/Baekjoon/blob/master/Silver-4/9012.cpp)|
 |10773|[제로]("https://www.acmicpc.net/problem/10773")|[C++17](https://github.com/Knabin/Baekjoon/blob/master/Silver-4/10773.cpp)|
+|10816|[숫자 카드 2]("https://www.acmicpc.net/problem/10816")|[C++17](https://github.com/Knabin/Baekjoon/blob/master/Silver-4/10816.cpp)|
 |10828|[스택]("https://www.acmicpc.net/problem/10828")|[C++17](https://github.com/Knabin/Baekjoon/blob/master/Silver-4/10828.cpp)|
 |10845|[큐]("https://www.acmicpc.net/problem/10845")|[C++17](https://github.com/Knabin/Baekjoon/blob/master/Silver-4/10845.cpp)|
+|10866|[덱]("https://www.acmicpc.net/problem/10866")|[C++17](https://github.com/Knabin/Baekjoon/blob/master/Silver-4/10866.cpp)|
 |18258|[큐 2]("https://www.acmicpc.net/problem/18258")|[C++17](https://github.com/Knabin/Baekjoon/blob/master/Silver-4/18258.cpp)|
 
-[![III](https://img.shields.io/badge/III-(7_/_719)-FFFFFF?style=for-the-badge&labelColor=435F7A)](https://solved.ac/problems/level/8)
+[![III](https://img.shields.io/badge/III-(8_/_719)-FFFFFF?style=for-the-badge&labelColor=435F7A)](https://solved.ac/problems/level/8)
 | # | 제목 | 언어 |
 |:-:|-|:-:|
 |1021|[회전하는 큐]("https://www.acmicpc.net/problem/1021")|[C++17](https://github.com/Knabin/Baekjoon/blob/master/Silver-3/1021.cpp)|
 |1213|[팰린드롬 만들기]("https://www.acmicpc.net/problem/1213")|[C++17](https://github.com/Knabin/Baekjoon/blob/master/Silver-3/1213.cpp)|
+|1929|[소수 구하기]("https://www.acmicpc.net/problem/1929")|[C++17](https://github.com/Knabin/Baekjoon/blob/master/Silver-3/12131929.cpp)|
 |2559|[수열]("https://www.acmicpc.net/problem/2559")|[C++17](https://github.com/Knabin/Baekjoon/blob/master/Silver-3/2559.cpp)|
 |3273|[두 수의 합]("https://www.acmicpc.net/problem/3273")|[C++17](https://github.com/Knabin/Baekjoon/blob/master/Silver-3/3273.cpp)|
 |4375|[1]("https://www.acmicpc.net/problem/4375")|[C++17](https://github.com/Knabin/Baekjoon/blob/master/Silver-3/4375.cpp)|
