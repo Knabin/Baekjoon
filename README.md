@@ -56,7 +56,7 @@
 |1085|[직사각형에서 탈출]("https://www.acmicpc.net/problem/1085")|[C++17](https://github.com/Knabin/Baekjoon/blob/master/Bronze-3/1085.cpp)|
 |4153|[직각삼각형]("https://www.acmicpc.net/problem/4153")|[C++17](https://github.com/Knabin/Baekjoon/blob/master/Bronze-3/4153.cpp)|
 
-[![II](https://img.shields.io/badge/II-(14_/_826)-FFFFFF?style=for-the-badge&labelColor=C47F0A)](https://solved.ac/problems/level/4)
+[![II](https://img.shields.io/badge/II-(15_/_826)-FFFFFF?style=for-the-badge&labelColor=C47F0A)](https://solved.ac/problems/level/4)
 | # | 제목 | 언어 |
 |:-:|-|:-:|
 |1152|[단어의 개수]("https://www.acmicpc.net/problem/1152")|[C++17](https://github.com/Knabin/Baekjoon/blob/master/Bronze-2/1152.cpp)|
@@ -73,6 +73,7 @@
 |11328|[Strfry]("https://www.acmicpc.net/problem/11328")|[C++17](https://github.com/Knabin/Baekjoon/blob/master/Bronze-2/11328.cpp)|
 |11720|[숫자의 합]("https://www.acmicpc.net/problem/11720")|[C++17](https://github.com/Knabin/Baekjoon/blob/master/Bronze-2/11720.cpp)|
 |13300|[방 배정]("https://www.acmicpc.net/problem/13300")|[C++17](https://github.com/Knabin/Baekjoon/blob/master/Bronze-2/13300.cpp)|
+|15829|[방 배정]("https://www.acmicpc.net/problem/15829")|[C++17](https://github.com/Knabin/Baekjoon/blob/master/Bronze-2/15829.cpp)|
 
 [![I](https://img.shields.io/badge/I-(9_/_621)-FFFFFF?style=for-the-badge&labelColor=BA8A09)](https://solved.ac/problems/level/5)
 | # | 제목 | 언어 |
