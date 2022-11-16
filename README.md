@@ -178,8 +178,9 @@
 |7576|[토마토]("https://www.acmicpc.net/problem/7576")|[C++17](https://github.com/Knabin/Baekjoon/blob/master/Gold-5/7576.cpp)|
 |10026|[적록색약]("https://www.acmicpc.net/problem/10026")|[C++17](https://github.com/Knabin/Baekjoon/blob/master/Gold-5/10026.cpp)|
 
-[![IV](https://img.shields.io/badge/IV-(2_/_992)-FFFFFF?style=for-the-badge&labelColor=D6770B)](https://solved.ac/problems/level/12)
+[![IV](https://img.shields.io/badge/IV-(3_/_992)-FFFFFF?style=for-the-badge&labelColor=D6770B)](https://solved.ac/problems/level/12)
 |5427|[불]("https://www.acmicpc.net/problem/5427")|[C++17](https://github.com/Knabin/Baekjoon/blob/master/Gold-4/5427.cpp)|
+|7662|[이중 우선순위 큐]("https://www.acmicpc.net/problem/7662")|[C++17](https://github.com/Knabin/Baekjoon/blob/master/Gold-4/7662.cpp)|
 |17298|[오큰수]("https://www.acmicpc.net/problem/17298")|[C++17](https://github.com/Knabin/Baekjoon/blob/master/Gold-4/17298.cpp)|
 
 [![III](https://img.shields.io/badge/III-(0_/_958)-FFFFFF?style=for-the-badge&labelColor=EC9A00)](https://solved.ac/problems/level/13)
