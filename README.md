@@ -76,7 +76,7 @@
 |13300|[방 배정]("https://www.acmicpc.net/problem/13300")|[C++17](https://github.com/Knabin/Baekjoon/blob/master/Bronze-2/13300.cpp)|
 |15829|[방 배정]("https://www.acmicpc.net/problem/15829")|[C++17](https://github.com/Knabin/Baekjoon/blob/master/Bronze-2/15829.cpp)|
 
-[![I](https://img.shields.io/badge/I-(10_/_621)-FFFFFF?style=for-the-badge&labelColor=BA8A09)](https://solved.ac/problems/level/5)
+[![I](https://img.shields.io/badge/I-(11_/_621)-FFFFFF?style=for-the-badge&labelColor=BA8A09)](https://solved.ac/problems/level/5)
 | # | 제목 | 언어 |
 |:-:|-|:-:|
 |1157|[단어 공부]("https://www.acmicpc.net/problem/1157")|[C++17](https://github.com/Knabin/Baekjoon/blob/master/Bronze-1/1157.cpp)|
@@ -85,6 +85,7 @@
 |2163|[초콜릿 자르기]("https://www.acmicpc.net/problem/2163")|[C++17](https://github.com/Knabin/Baekjoon/blob/master/Bronze-1/2163.cpp)|
 |2309|[일곱 난쟁이]("https://www.acmicpc.net/problem/2309")|[C++17](https://github.com/Knabin/Baekjoon/blob/master/Bronze-1/2309.cpp)|
 |2609|[최대공약수와 최소공배수]("https://www.acmicpc.net/problem/2609")|[C++17](https://github.com/Knabin/Baekjoon/blob/master/Bronze-1/2609.cpp)|
+|2775|[부녀회장이 될테야]("https://www.acmicpc.net/problem/2775")|[C++17](https://github.com/Knabin/Baekjoon/blob/master/Bronze-1/2775.cpp)|
 |10988|[팰린드롬인지 확인하기]("https://www.acmicpc.net/problem/10988")|[C++17](https://github.com/Knabin/Baekjoon/blob/master/Bronze-1/10988.cpp)|
 |10989|[수 정렬하기 3]("https://www.acmicpc.net/problem/10989")|[C++17](https://github.com/Knabin/Baekjoon/blob/master/Bronze-1/10989.cpp)|
 |11050|[이항 계수 1]("https://www.acmicpc.net/problem/11050")|[C++17](https://github.com/Knabin/Baekjoon/blob/master/Bronze-1/11050.cpp)|
