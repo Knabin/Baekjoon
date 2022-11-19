@@ -117,7 +117,7 @@
 |11651|[좌표 정렬하기 2]("https://www.acmicpc.net/problem/11651")|[C++17](https://github.com/Knabin/Baekjoon/blob/master/Silver-5/11651.cpp)|
 |11866|[요세푸스 문제 0]("https://www.acmicpc.net/problem/11866")|[C++17](https://github.com/Knabin/Baekjoon/blob/master/Silver-5/11866.cpp)|
 
-[![IV](https://img.shields.io/badge/IV-(15_/_705)-FFFFFF?style=for-the-badge&labelColor=495B91)](https://solved.ac/problems/level/7)
+[![IV](https://img.shields.io/badge/IV-(16_/_705)-FFFFFF?style=for-the-badge&labelColor=495B91)](https://solved.ac/problems/level/7)
 | # | 제목 | 언어 |
 |:-:|-|:-:|
 |1018|[체스판 다시 칠하기]("https://www.acmicpc.net/problem/1018")|[C++17](https://github.com/Knabin/Baekjoon/blob/master/Silver-4/1018.cpp)|
@@ -128,6 +128,7 @@
 |2164|[카드2]("https://www.acmicpc.net/problem/2164")|[C++17](https://github.com/Knabin/Baekjoon/blob/master/Silver-4/2164.cpp)|
 |2839|[설탕 배달]("https://www.acmicpc.net/problem/2839")|[C++17](https://github.com/Knabin/Baekjoon/blob/master/Silver-4/2839.cpp)|
 |3986|[좋은 단어]("https://www.acmicpc.net/problem/3986")|[C++17](https://github.com/Knabin/Baekjoon/blob/master/Silver-4/3986.cpp)|
+|4949|[균형잡힌 세상]("https://www.acmicpc.net/problem/4949")|[C++17](https://github.com/Knabin/Baekjoon/blob/master/Silver-4/4949.cpp)|
 |9012|[괄호]("https://www.acmicpc.net/problem/9012")|[C++17](https://github.com/Knabin/Baekjoon/blob/master/Silver-4/9012.cpp)|
 |10773|[제로]("https://www.acmicpc.net/problem/10773")|[C++17](https://github.com/Knabin/Baekjoon/blob/master/Silver-4/10773.cpp)|
 |10816|[숫자 카드 2]("https://www.acmicpc.net/problem/10816")|[C++17](https://github.com/Knabin/Baekjoon/blob/master/Silver-4/10816.cpp)|
