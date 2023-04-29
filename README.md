@@ -50,10 +50,11 @@
 |2480|[주사위 세개]("https://www.acmicpc.net/problem/2480")|[C++17](https://github.com/Knabin/Baekjoon/blob/master/Bronze-4/2480.cpp)|
 |10808|[알파벳 개수]("https://www.acmicpc.net/problem/10808")|[C++17](https://github.com/Knabin/Baekjoon/blob/master/Bronze-4/10808.cpp)|
 
-[![III](https://img.shields.io/badge/III-(2_/_486)-FFFFFF?style=for-the-badge&labelColor=AD5600)](https://solved.ac/problems/level/3)
+[![III](https://img.shields.io/badge/III-(3_/_606)-FFFFFF?style=for-the-badge&labelColor=AD5600)](https://solved.ac/problems/level/3)
 | # | 제목 | 언어 |
 |:-:|-|:-:|
 |1085|[직사각형에서 탈출]("https://www.acmicpc.net/problem/1085")|[C++17](https://github.com/Knabin/Baekjoon/blob/master/Bronze-3/1085.cpp)|
+|2490|[윷놀이]("https://www.acmicpc.net/problem/2490")|[C++17](https://github.com/Knabin/Baekjoon/blob/master/Bronze-3/2490.cpp)|
 |4153|[직각삼각형]("https://www.acmicpc.net/problem/4153")|[C++17](https://github.com/Knabin/Baekjoon/blob/master/Bronze-3/4153.cpp)|
 
 [![II](https://img.shields.io/badge/II-(16_/_826)-FFFFFF?style=for-the-badge&labelColor=C47F0A)](https://solved.ac/problems/level/4)
