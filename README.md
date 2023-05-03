@@ -50,13 +50,14 @@
 |2480|[주사위 세개]("https://www.acmicpc.net/problem/2480")|[C++17](https://github.com/Knabin/Baekjoon/blob/master/Bronze-4/2480.cpp)|
 |10808|[알파벳 개수]("https://www.acmicpc.net/problem/10808")|[C++17](https://github.com/Knabin/Baekjoon/blob/master/Bronze-4/10808.cpp)|
 
-[![III](https://img.shields.io/badge/III-(6_/_606)-FFFFFF?style=for-the-badge&labelColor=AD5600)](https://solved.ac/problems/level/3)
+[![III](https://img.shields.io/badge/III-(7_/_606)-FFFFFF?style=for-the-badge&labelColor=AD5600)](https://solved.ac/problems/level/3)
 | # | 제목 | 언어 |
 |:-:|-|:-:|
 |1085|[직사각형에서 탈출]("https://www.acmicpc.net/problem/1085")|[C++17](https://github.com/Knabin/Baekjoon/blob/master/Bronze-3/1085.cpp)|
 |1267|[핸드폰 요금]("https://www.acmicpc.net/problem/1267")|[C++17](https://github.com/Knabin/Baekjoon/blob/master/Bronze-3/1267.cpp)|
 |2441|[별 찍기 - 4]("https://www.acmicpc.net/problem/2441")|[C++17](https://github.com/Knabin/Baekjoon/blob/master/Bronze-3/2441.cpp)|
 |2442|[별 찍기 - 5]("https://www.acmicpc.net/problem/2442")|[C++17](https://github.com/Knabin/Baekjoon/blob/master/Bronze-3/2442.cpp)|
+|2443|[별 찍기 - 6]("https://www.acmicpc.net/problem/2443")|[C++17](https://github.com/Knabin/Baekjoon/blob/master/Bronze-3/2443.cpp)|
 |2490|[윷놀이]("https://www.acmicpc.net/problem/2490")|[C++17](https://github.com/Knabin/Baekjoon/blob/master/Bronze-3/2490.cpp)|
 |2576|[홀수]("https://www.acmicpc.net/problem/2576")|[C++17](https://github.com/Knabin/Baekjoon/blob/master/Bronze-3/2576.cpp)|
 |4153|[직각삼각형]("https://www.acmicpc.net/problem/4153")|[C++17](https://github.com/Knabin/Baekjoon/blob/master/Bronze-3/4153.cpp)|
