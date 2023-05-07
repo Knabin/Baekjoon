@@ -163,10 +163,11 @@
 |10799|[쇠막대기]("https://www.acmicpc.net/problem/10799")|[C++17](https://github.com/Knabin/Baekjoon/blob/master/Silver-3/10799.cpp)|
 
 
-[![II](https://img.shields.io/badge/II-(5_/_754)-FFFFFF?style=for-the-badge&labelColor=498191)](https://solved.ac/problems/level/9)
+[![II](https://img.shields.io/badge/II-(6_/_784)-FFFFFF?style=for-the-badge&labelColor=498191)](https://solved.ac/problems/level/9)
 | # | 제목 | 언어 |
 |:-:|-|:-:|
 |1012|[유기농 배추]("https://www.acmicpc.net/problem/1012")|[C++17](https://github.com/Knabin/Baekjoon/blob/master/Silver-2/1012.cpp)|
+|1406|[에디터]("https://www.acmicpc.net/problem/1406")|[C++17](https://github.com/Knabin/Baekjoon/blob/master/Silver-2/1406.cpp)|
 |1654|[랜선 자르기]("https://www.acmicpc.net/problem/1654")|[C++17](https://github.com/Knabin/Baekjoon/blob/master/Silver-2/1654.cpp)|
 |1874|[스택 수열]("https://www.acmicpc.net/problem/1874")|[C++17](https://github.com/Knabin/Baekjoon/blob/master/Silver-2/1874.cpp)|
 |1920|[수 찾기]("https://www.acmicpc.net/problem/1920")|[C++17](https://github.com/Knabin/Baekjoon/blob/master/Silver-2/1920.cpp)|
