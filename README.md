@@ -190,9 +190,10 @@
 <details>
 <summary><h3>Gold</h3></summary>
 
-[![V](https://img.shields.io/badge/V-(4_/_845)-FFFFFF?style=for-the-badge&labelColor=F7670C)](https://solved.ac/problems/level/11)
+[![V](https://img.shields.io/badge/V-(5_/_947)-FFFFFF?style=for-the-badge&labelColor=F7670C)](https://solved.ac/problems/level/11)
 |2493|[탑]("https://www.acmicpc.net/problem/2493")|[C++17](https://github.com/Knabin/Baekjoon/blob/master/Gold-5/2493.cpp)|
 |5430|[AC]("https://www.acmicpc.net/problem/5430")|[C++17](https://github.com/Knabin/Baekjoon/blob/master/Gold-5/5430.cpp)|
+|6198|[옥상 정원 꾸미기]("https://www.acmicpc.net/problem/6198")|[C++17](https://github.com/Knabin/Baekjoon/blob/master/Gold-5/6198.cpp)|
 |7576|[토마토]("https://www.acmicpc.net/problem/7576")|[C++17](https://github.com/Knabin/Baekjoon/blob/master/Gold-5/7576.cpp)|
 |10026|[적록색약]("https://www.acmicpc.net/problem/10026")|[C++17](https://github.com/Knabin/Baekjoon/blob/master/Gold-5/10026.cpp)|
 
