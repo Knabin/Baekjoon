@@ -216,7 +216,8 @@
 <details>
 <summary><h3>Platinum</h3></summary>
 
-[![V](https://img.shields.io/badge/V-(0_/_814)-FFFFFF?style=for-the-badge&labelColor=1DC2F0)](https://solved.ac/problems/level/16)
+[![V](https://img.shields.io/badge/V-(1_/_953)-FFFFFF?style=for-the-badge&labelColor=1DC2F0)](https://solved.ac/problems/level/16)
+|3015|[오아시스 재결합]("https://www.acmicpc.net/problem/3015")|[C++17](https://github.com/Knabin/Baekjoon/blob/master/Platinum-5/3015.cpp)|
 
 [![IV](https://img.shields.io/badge/IV-(0_/_836)-FFFFFF?style=for-the-badge&labelColor=1EFAEF)](https://solved.ac/problems/level/17)
 
